@@ -1,0 +1,614 @@
+/*
+|--------------------------------------------------------------------------
+| Pages using this stylesheet:
+|
+| Specialized cabinets
+| General physicians and dentists
+|--------------------------------------------------------------------------
+*/
+
+html {
+    position: relative;
+    background: #F8FAFC;
+    background-color: #F8FAFC;
+}
+
+
+html::after {
+    content: "";
+    background: #F8FAFC;
+}
+
+
+html body {
+    position: relative;
+    background: #F8FAFC;
+    background-color: #F8FAFC;
+}
+
+footer.footer-light {
+    background-color: #fff;
+}
+
+.footer a.external-link {
+    color: #8795A1;
+}
+
+.footer a.external-link.gss {
+    color: #8795A1;
+}
+
+.footer .copyright-text {
+   color: #8795A1;
+}
+
+.hero {
+    position: fixed;
+    top: 72px;
+    left: 0;
+    right: 0;
+    background: url("../../app-assets/images/page-headline.jpg") top center no-repeat;
+    background-size: cover;
+    height: 280px;
+    opacity: 0.85;
+    z-index: -1;
+}
+
+
+.main-menu.menu-dark {
+    /*background: rgba(103, 85, 86, 1);
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),
+                0 1px 5px 0 rgba(0,0,0,0.12),
+                0 3px 1px -2px rgba(0,0,0,0.2);*/
+
+    /*background: rgba(44,62,80,1);
+    background: -moz-linear-gradient(-45deg, rgba(44,62,80,1) 0%, rgba(44,62,80,1) 16%, rgba(189,195,199,1) 100%);
+    background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(44,62,80,1)), color-stop(16%, rgba(44,62,80,1)), color-stop(100%, rgba(189,195,199,1)));
+    background: -webkit-linear-gradient(-45deg, rgba(44,62,80,1) 0%, rgba(44,62,80,1) 16%, rgba(189,195,199,1) 100%);
+    background: -o-linear-gradient(-45deg, rgba(44,62,80,1) 0%, rgba(44,62,80,1) 16%, rgba(189,195,199,1) 100%);
+    background: -ms-linear-gradient(-45deg, rgba(44,62,80,1) 0%, rgba(44,62,80,1) 16%, rgba(189,195,199,1) 100%);
+    background: linear-gradient(135deg, rgba(44,62,80,1) 0%, rgba(44,62,80,1) 16%, rgba(189,195,199,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c3e50', endColorstr='#bdc3c7', GradientType=1 );*/
+
+    background-color: rgba(44, 62, 80, 0.85);
+
+
+
+}
+
+.map {
+    height: 400px;
+}
+
+.info-window-content {
+    font-family: "RobotoLight", sans-serif;
+}
+
+.info-window-title {
+    font-family: "RobotoBold", sans-serif;
+    font-weight: bold;
+}
+
+.main-content-wrapper {
+    padding: 2.5rem;
+    position: relative;
+    /* margin-top: 534px; */
+    /*margin-top: 280px;*/
+    margin-bottom: 3rem;
+    /*background-color: rgb(245, 247, 250);*/
+    /* z-index: 2; */
+    box-shadow: 0 -2px -2px 0 rgba(0,0,0,0.14),
+                0 -1px -5px 0 rgba(0,0,0,0.12),
+                0 -3px -1px -2px rgba(0,0,0,0.2);
+}
+
+.main-content-wrapper.contacts {
+    margin-top: 0;
+}
+
+@media (max-width: 576px) {
+    .main-content-wrapper {
+        margin-top: 0px;
+    }
+}
+
+.breadcrumbs-top {
+    margin-left: 0;
+    margin-top: 1rem;
+}
+
+.breadcrumb-wrapper {
+    padding-left: 0;
+}
+
+.section-title {
+    position: relative;
+    margin-bottom: 2.5rem;
+    /* margin-left: 2.5rem; */
+    font-family: 'RobotoSlabRegular', sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    text-align: left;
+}
+
+.section-tabs {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.nav-vertical .nav-right ~ .tab-content .tab-pane {
+    padding: 0;
+    padding-right: 2rem;
+    background-color: inherit;
+}
+
+
+.nav-vertical .nav-right.nav-tabs.nav-border-right li.nav-item a.nav-link {
+    color: #404E67;
+
+}
+
+.nav-vertical .nav-right.nav-tabs.nav-border-right li.nav-item a.nav-link:hover {
+    border-left: 4px solid #ddd;
+}
+
+.nav-vertical .nav-right.nav-tabs.nav-border-right li.nav-item a.nav-link.active {
+    border-radius: 0;
+    border-top: none;
+    border-bottom: none;
+    border-left: 4px solid rgb(235,15, 40);
+    border-right: 0;
+    background-color: rgba(103, 85, 86, 1);
+    color: #fff;
+}
+
+.nav.nav-tabs .nav-item .nav-link.active {
+    background-color: rgba(103, 85, 86, 1);
+    border-left: 4px solid transparent;
+}
+
+.nav-vertical .nav-right.nav-tabs li.nav-item a.nav-link {
+    width: 290px;
+    color: #404E67;
+    border-left: 4px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+
+.nav-vertical .nav-right.nav-tabs li.nav-item a.nav-link:hover {
+    background-color: #ddd;
+    border-radius: 0;
+}
+
+.specialty-staff-member {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 2rem;
+}
+
+.specialty-staff-member:last-of-type {
+    border-bottom: none;
+}
+
+.specialty-staff {
+    margin-bottom: 2.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.specialty-title {
+    margin-bottom: 1.5rem;
+    font-family: 'RobotoRegular', sans-serif;
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+
+.specialty-description {
+    margin-bottom: 1.5rem;
+    text-align: justify;
+}
+
+.specialty-description-item {
+    margin-top: 0.5rem;
+    margin-left: 1.5rem;
+}
+
+.specialty-description-item .fa-check-square-o {
+    display: inline-block;
+    margin-right: 0.6rem;
+    margin-top: -1px;
+    font-size: 1.20rem;
+    vertical-align: middle;
+}
+
+.specialty-staff-title {
+    margin-bottom: 1.5rem;
+    font-family: 'RobotoRegular', sans-serif;
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+
+.specialty-staff-member {
+    padding-bottom: 2rem;
+}
+
+.staff-member,
+.staff-member-info {
+    display: inline-block;
+}
+
+.staff-member {
+    margin-right: 1.75rem;
+}
+
+.staff-member-image img {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+    width: 160px;
+    height: auto;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),
+                0 1px 5px 0 rgba(0,0,0,0.12),
+                0 3px 1px -2px rgba(0,0,0,0.2);
+}
+
+.staff-member-appointment a {
+    display: inline-block;
+    width: 160px;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: rgb(235,15, 40);
+    border-radius: 4px;
+    font-family: 'RobotoCondensedLight', sans-serif;
+    font-weight: 300;
+    font-size: 1rem;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.staff-member-appointment a:hover {
+    background-color: #ce2c20;
+}
+
+.staff-member-info {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.staff-member-name {
+    margin-bottom: 0.5rem;
+    font-family: 'RobotoRegular', sans-serif;
+    font-weight: 400;
+    font-size: 1.15rem;
+}
+
+.staff-member-specialty {
+    display: inline-block;
+    margin-bottom: 1.5rem;
+    padding: 3px 8px;
+    padding-right: 10px;
+    /*background-color: rgba(103, 85, 86, 0.85);*/
+    background-color: rgba(44,62,80,0.75);
+    border-radius: 2px;
+    font-family: 'RobotoLight', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 300;
+    color: #fff;
+    text-align: left;
+}
+
+.staff-member-location {
+    margin-bottom: 1.5rem;
+}
+
+.staff-member-practices .practice-icon img {
+    display: inline-block;
+    width: 30px;
+    height: auto;
+    margin-right: 8px;
+}
+
+.staff-member-practices .practice-icon img:hover {
+    cursor: pointer;
+}
+
+.staff-member-practices .practice-icon img.children {
+    width: auto;
+    height: 32px;
+}
+
+.staff-member-location .location-item {
+    margin-bottom: 5px;
+}
+
+.row .fa-hospital-o,
+.row .fa-caret-square-o-right,
+.row .fa-phone-square {
+    display: inline-block;
+    margin-right: 5px;
+    vertical-align: middle;
+    font-size: 1.5rem;
+    color: rgba(117, 117, 117, 1);
+}
+
+.row .fa-hospital-o {
+    margin-top: -7px;
+    font-size: 22px;
+}
+
+.staff-member-short-bio {
+    padding-top: 1.25rem;
+    text-align: justify;
+}
+
+.section-contacts-content {
+
+    text-align: center;
+}
+
+.section-contacts-content  .card-header {
+    background-color: rgba(44,62,80,0.75);
+}
+
+.section-contacts-content .fa-map-marker,
+.section-contacts-content .fa-phone,
+.section-contacts-content .fa-envelope-o,
+.section-contacts-content .fa-clock-o {
+    /*color: rgb(235,15, 40);*/
+    color: #fff;
+    display: inline-block;
+    font-size: 3rem;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.contacts-info-title {
+    font-weight: bold;
+}
+
+.buyer-profile-wrapper,
+.results-wrapper {
+    margin-left: 1rem;
+}
+
+.buyer-profile-title,
+.results-section-title {
+    margin-bottom: 1.5rem;
+    font-family: 'RobotoRegular', sans-serif;
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+
+.form.results-login {
+    width: 290px;
+    margin: 0 auto;
+}
+
+.staff-business-hours .table  {
+    margin-top: 1.5rem;
+    width: 355px;
+}
+
+.staff-business-hours .table th,
+.staff-business-hours .table td {
+    border-bottom: 1px solid rgba(64,78,103,0.35);
+    border-bottom: 1px solid #98A4B8;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.staff-business-hours .table thead th {
+    border-bottom: 2px solid #98A4B8;
+    border-top: 1px solid #98A4B8;
+}
+
+.main-menu-links-container a h4 {
+    font-family: "Open Sans", sans-serif;
+}
+
+/*
+.main-menu-links-container a.list-group-item {
+
+    background-color: rgba(44,62,80,0.75);
+    color: #fff;
+    margin-bottom: 1rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    vertical-align: middle;
+}
+
+.main-menu-links-container .fa-caret-right {
+    display: inline-block;
+    margin-top: -2px;
+    margin-right: 10px;
+    font-size: 1.5rem;
+    vertical-align: middle;
+}
+
+.main-menu-links-container h6.media-heading.mb-0 {
+    font-family: "Open Sans", sans-serif;
+}
+
+
+.main-menu-links-container .list-group-item:first-child {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.main-menu-links-container .list-group-item:last-child {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+*/
+.aside-menu-links-container h6.media-heading.mb-0 {
+    font-family: "Open Sans", sans-serif;
+}
+
+.aside-menu-links-container .list-group-item:first-child {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.aside-menu-links-container a.list-group-item.active {
+    /*background-color: rgba(103, 85, 86, 1);*/
+
+    background-color: rgba(190,195,199,0.65);
+    border-top: 1px solid rgba(190,195,199,0.65);
+    border-right: 1px solid rgba(190,195,199,0.65);
+    border-bottom: 1px solid rgba(190,195,199,0.65);
+    border-left: 4px solid rgb(235,15, 40);
+    color: #fff;
+}
+
+.aside-menu-links-container a.list-group-item {
+    border-left: 4px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    background-color: #F5F7FA;
+    color: #404E67;
+    margin-bottom: 2px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.aside-menu-links-container a.list-group-item:hover {
+    background-color: #ddd;
+}
+
+.aside-menu-links-container a.list-group-item.active {
+    background-color: rgba(44,62,80,0.75);
+    border-top: 1px solid rgba(44,62,80,0.75);
+    border-right: 1px solid rgba(44,62,80,0.75);
+    border-bottom: 1px solid rgba(44,62,80,0.75);
+    border-left: 4px solid rgb(235,15, 40);
+    color: #fff;
+}
+
+.profile-property {
+    background-color: rgba(44,62,80,0.45);
+    color: #fff;
+    width: 200px;
+    max-width: 200px;
+}
+
+.user-properties .table tr:first-of-type td {
+    border-top: 1px solid #e3ebf3;
+}
+
+.user-properties .table td {
+    padding: 0.95rem 1rem;
+}
+
+.aside-menu-links-container .list-group-item:last-child {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.list-group-item {
+    padding-right: 0;
+}
+
+
+.content-date {
+    margin-bottom: 1.5rem;
+}
+
+.card-section-content {
+    padding: 1.5rem 1.5rem;
+}
+
+.card-section-content .section-subtitle {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    text-align: center;
+}
+
+.card-section-content .section-subtitle-2 {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    text-align: center;
+}
+
+.card-section-content .separator {
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.card-section-content .p-title {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    text-align: left;
+}
+
+.card-section-content .section-footer {
+    text-align: center;
+}
+
+
+.publication ol li,
+.publication ul li {
+    list-style: disc;
+}
+
+.price-list-file-title {
+    display: inline-block;
+    color: #404E67;
+    margin-left: 1rem;
+    vertical-align: middle;
+}
+
+.publications .card-header .card-title {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.price-list-files-container h6.media-heading.mb-0 {
+    font-family: "Open Sans", sans-serif;
+    padding-bottom: 0.5rem;
+}
+
+
+img.rating-star {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    /*margin-right: 1px;*/
+}
+
+.publication-rating {
+    margin-bottom: 1.5rem;
+}
+
+.publication-position {
+    margin-bottom: 1.5rem;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.position {
+    padding-top: 0.5rem;
+}
+
+.card-section-content p img {
+    max-width: 100%;
+}
+
+/*
+.publication-rating-small {
+    margin-bottom: 0.5rem;
+}*/
+
+@media (max-width: 576px) {
+    .main-content-wrapper {
+        margin-top: 0;
+        padding-left: 0.25rem;
+        padding-right: 0.25rem;
+    }
+
+    .staff-member-image img.general-practition {
+        width: 90px;
+    }
+
+    .staff-business-hours .table  {
+        width: 100%;
+    }
+}
+

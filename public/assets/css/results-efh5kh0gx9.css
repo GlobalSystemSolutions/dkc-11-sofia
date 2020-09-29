@@ -1,0 +1,762 @@
+/* @import url("../../app-assets/fonts/font-awesome/css/font-awesome.min.css"); */
+
+.customizer-toggle {
+    position: fixed;
+    top: 35%;
+    width: 54px;
+    height: 50px;
+    right: 0px;
+    text-align: center;
+    line-height: 56px;
+    cursor: pointer;
+    background: rgba(235, 15, 40, 0.70);
+    z-index: 2;
+}
+
+.customizer-toggle:hover {
+    background: rgba(235, 15, 40, 1);
+}
+
+.main-content-wrapper {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.results-wrapper {
+    width: 100%;
+    max-width: 1000px;
+    background: #fff;
+    padding: 2.5rem;
+    margin-bottom: 2.5rem;
+    box-shadow: 0 10px 40px 0 rgba(62, 57, 107, 0.07),
+                0 2px 9px 0 rgba(62, 57, 107, 0.06);
+}
+
+#results table {
+    min-width: 100%;
+    max-width: 100%;
+    border-collapse: collapse;
+}
+
+#results table tr  {
+    border: 1px solid #98a4b8;
+}
+
+#results table td {
+    color: #262e3d;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+}
+
+/* ----------------------------------- */
+/* Header table ---------------------- */
+/* ----------------------------------- */
+
+#results table.header-table {
+    margin-bottom: 10px;
+}
+
+#results table.header-table td {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+}
+
+#results table.header-table td.right-aligned {
+    text-align: right;
+    padding-right: 1rem;
+}
+
+#results table.header-table td.lab-logo {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;
+    vertical-align: middle;
+    width: 97px;
+}
+
+#results table.header-table td.lab-logo .logo img {
+    min-width: 98px;
+    max-width: 98px;
+    height: auto;
+}
+
+#results table.header-table h2 {
+    color: #4d5e7c;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* ----------------------------------------- */
+/* General Info table ---------------------- */
+/* ----------------------------------------- */
+
+#results table.patient-info {
+    width: 100%;
+    margin-bottom: 4px;
+}
+
+#results table.patient-info tr {
+    background-color: #eee;
+}
+
+#results table.patient-info tr td {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+#results table.patient-info td.first-column {
+    width: 120px;
+}
+
+#results table.patient-info .patient-name {
+    display: inline-block;
+    margin-right: 1px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#results table.patient-info .first-column {
+    border-right: 1px solid #98a4b8;
+}
+
+table.patient-info .last-column {
+    border-left: 1px solid #98a4b8;
+}
+
+#results table.patient-info .first-column,
+#results table.patient-info .last-column {
+    text-align: center;
+}
+
+#results table.patient-info .middle-column {
+    padding-left: 6px;
+}
+
+#results table.patient-info td.patient-egn {
+    width: 130px;
+    text-align: center;
+}
+
+#results table.patient-info td.patient-age {
+    width: 70px;
+    text-align: left;
+}
+
+#results table.patient-info td.last-column {
+    width: 120px;
+    text-align: center;
+}
+
+/* ----------------------------------------- */
+/* Doctor Info table ----------------------- */
+/* ----------------------------------------- */
+
+#results table.doctor-info {
+    margin-bottom: 0.5rem;
+}
+
+#results table.doctor-info tr {
+    border: none;
+}
+
+#results table.doctor-info .doctor-label,
+#results table.doctor-info .affiliate-label {
+    width: 120px;
+    text-align: right;
+}
+
+#results table.doctor-info tr td {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+#results table.doctor-info .doctor-uin-label {
+    width: 70px;
+    text-align: right;
+}
+
+#results table.doctor-info .doctor-name,
+#results table.doctor-info .affiliate-name {
+    padding-left: 8px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+#results table.doctor-info .doctor-uin {
+    width: 120px;
+    text-align: center;
+}
+
+/* ----------------------------------- */
+/* Clinical Laboratory results ------- */
+/* ----------------------------------- */
+
+/* table.results-table.type-1 {
+} */
+
+/*
+table.results-table.type-1 tr td.group-name {
+    border-top: 1px solid #3d4758;
+    border-bottom: 1px solid #3d4758;
+} */
+
+#results table.results-table.type-1:last-of-type {
+    border-bottom: 1px solid #98a4b8;
+}
+
+#results table.results-table.type-1 tr td {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#results table.results-table.type-1 tr:first-of-type {
+    border-top: 1px solid #98a4b8;
+}
+
+#results table.results-table.type-1 tr:last-of-type {
+    border-bottom: 1px solid transparent;
+    border-bottom: none;
+}
+/*
+#results table.results-table.type-1:first-of-type tr {
+    border-top: 1px solid #98a4b8;
+} */
+
+table.results-table.type-1 tr td.test-name-header,
+table.results-table.type-1 tr td.test-result-header,
+table.results-table.type-1 tr td.test-units-header,
+table.results-table.type-1 tr td.test-ref-values-header {
+    border-right: 1px solid #98a4b8;
+    text-align: center;
+}
+
+table.results-table.type-1 tr td.test-name-header {
+    text-align: left;
+}
+
+table.results-table.type-1 tr td.test-result-header {
+    text-align: right;
+}
+
+
+table.results-table.type-1 tr td.test-result-header,
+table.results-table.type-1 tr td.test-result {
+    width: 100px;
+}
+
+table.results-table.type-1 tr td.test-units {
+    width: 80px;
+}
+
+
+
+table.results-table.type-1 tr td.test-result,
+table.results-table.type-1 tr td.test-units {
+    text-align: center;
+}
+
+table.results-table.type-1 tr td.test-ref-values {
+    text-align: left;
+    border-right: 1px solid #98a4b8;
+}
+/*
+table.results-table.type-1 tr {
+    border-bottom: none;
+} */
+
+.type-1 td.group-name {
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: #eee;
+}
+
+.type-1 td.test-name,
+.type-1 td.test-name-header {
+    width: 350px;
+    text-align: left;
+}
+
+.test-name-profile-spacer {
+    display: inline-block;
+    width: 20px;
+    max-width: 20px;
+}
+
+table.results-table.type-1 tr td.test-result {
+    position: relative;
+    text-align: right;
+}
+
+#results .status.low,
+#results .status.high {
+    display: inline-block;
+    position: absolute;
+    width: 18px;
+    left: 8px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 3px;
+    padding-right: 3px;
+    background-color: #262e3d;
+    text-align: center;
+    color: #fff;
+    font-size: 11px;
+}
+
+.status.low:hover,
+.status.high:hover,
+.status .fa-flask:hover {
+    cursor: pointer;
+}
+
+#results .status.low,
+#results .legend.status-low {
+    background-color: #2196F3;
+}
+
+#results .status.high,
+#results .legend.status-high {
+    background-color: #F44336;
+}
+
+#results .legend.status-high,
+#results .legend.status-low {
+    display: inline-block;
+    width: 18px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 3px;
+    padding-right: 3px;
+    text-align: center;
+    color: #fff;
+    font-size: 11px;
+}
+
+#results .clinical-laboratory-legend {
+    width: 100%;
+    margin-top: 24px;
+    border-top: 1px dashed #98a4b8;
+    padding-top: 4px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 11px;
+    color: #262e3d;
+}
+
+#results .clinical-laboratory-legend .legend-title {
+    margin-bottom: 4px;
+    font-weight: bold;
+}
+
+#results .clinical-laboratory-legend .legend-item {
+    margin-bottom: 4px;
+}
+
+#results .status .fa-flask {
+    display: inline-block;
+    position: absolute;
+    left: 9px;
+    margin-top: -7px;
+    font-size: 15px;
+    color: #FF6F00;
+}
+
+/* ----------------------------------- */
+/* Microbiology results -------------- */
+/* ----------------------------------- */
+
+table.results-table.type-2 tr td {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.type-2 td.group-name {
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: #eee;
+}
+
+.type-2 td .result-field {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.type-2 .result-empty-space {
+    display: inline-block;
+    min-width: 20px;
+}
+
+.type-2 .left-column {
+    width: 275px;
+    border-right: 1px solid #98a4b8;
+}
+
+.type-2 .right-column {
+    width: 525px;
+    max-width: 525px;
+    position: relative;
+}
+
+/* ----------------------------------- */
+/* Microbiology Antibiogram ---------- */
+/* ----------------------------------- */
+.type-2 table.antibiogram {
+    position: relative;
+    min-width: 100%;
+    max-width: 100%;
+}
+
+.type-2 table.antibiogram th,
+.type-2 table.antibiogram td {
+    font-size: 11px;
+}
+
+#results table.antibiogram td {
+    font-size: 11px;
+}
+
+.type-2 .antibiogram th.antibiogram-header {
+    text-transform: uppercase;
+    background-color: #eee;
+    text-align: center;
+}
+
+.type-2 .antibiotic-header-name-column {
+    text-align: center;
+    font-weight: bold;
+    width: 190px;
+}
+
+.type-2 .antibiogram td.antibiotic-interpretation {
+    width: 14px;
+    text-align: center;
+    border-right: 1px solid #98a4b8;
+    border-left: 1px solid #98a4b8;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.type-2 .antibiogram td.antibiogram-footer {
+    text-align: center;
+}
+
+/* ----------------------------------- */
+/* Cytology results ------------------ */
+/* ----------------------------------- */
+#results table.results-table.type-3 tr:last-of-type td {
+    border-bottom: 1px solid #98a4b8;
+    padding-bottom: 10px;
+}
+
+#results table.results-table.type-3 tr.no-border-bottom {
+    border-bottom: 1px solid transparent;
+}
+
+#results table.results-table.type-3 tr.no-border-top-bottom {
+    border-top: 1px solid transparent;
+    border-bottom: 1px solid transparent;
+    border-right: 1px solid #98a4b8;
+}
+
+#results table.results-table.type-3 tr td {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#results table.results-table.type-3 tr.no-border-top-bottom td.padding-left {
+    padding-left: 24px;
+}
+
+#results .type-3 td.group-name {
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: #eee;
+    text-align: center;
+}
+
+#results .type-3 .group-label {
+    display: inline-block;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#results .type-3 .group-label-light {
+    display: inline-block;
+    font-weight: 400;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+#results .type-3 .group-item {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#results .type-3 .group-items {
+    margin-bottom: 4px;
+}
+
+#results .type-3 td.align-top {
+    vertical-align: top;
+}
+
+#results .type-3 .group-item-bethesda {
+    font-weight: 400;
+}
+
+#results .type-3 .spacer {
+    display: inline-block;
+    min-width: 25px;
+}
+
+#results .type-3 .group-item-result {
+    display: inline-block;
+    line-height: 15px;
+    vertical-align: middle;
+}
+
+#results .type-3 .group-item-result .fa-check-square-o,
+#results .type-3 .group-item-result .fa-square-o {
+    display: inline-block;
+    font-size: 15px;
+    margin-top: -3px;
+    line-height: 15px;
+    vertical-align: middle;
+}
+/*
+.type-3 .group-item-bethesda {
+    display: inline-block;
+    line-height: 15px;
+    vertical-align: middle;
+}
+.type-3 .group-item-bethesda .fa-check-square-o,
+.type-3 .group-item-bethesda .fa-check-square,
+.type-3 .group-item-bethesda .fa-square-o {
+    display: inline-block;
+    font-size: 15px;
+    margin-bottom: -3px;
+    line-height: 16px;
+    vertical-align: middle;
+} */
+
+#results .type-3 .fa-check-square-o.checked,
+#results .type-3 .fa-check-square.checked,
+#results .type-3 .fa-square-o.checked {
+    color: #F44336;
+    /* color: #B71C1C; */
+    margin-right: 0;
+}
+
+#results .type-3 .group-columns {
+    padding-left: 35px;
+    margin-bottom: 8px;
+    width: 100%;
+}
+
+#results .type-3 .group-items-column-2 {
+    width: 40%;
+    display: inline-block;
+}
+
+#results .type-3 .group-items-column-3 {
+    width: 30%;
+    display: inline-block;
+}
+
+#results .type-3 .group-items-column-5 {
+    width: 18%;
+    display: inline-block;
+}
+
+
+#results .type-3 .group-items-column-6 {
+    width: 15%;
+    display: inline-block;
+}
+
+#results .type-3 .group-items-column-full {
+    width: 100%;
+    display: inline-block;
+}
+
+
+/* ----------------------------------- */
+/* Roentgen results ------------------ */
+/* ----------------------------------- */
+
+table.results-table.type-5 tr td {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.type-5 td.group-name {
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: #eee;
+}
+
+.type-5 td .result-field {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+#results .type-5 .status .fa-flask {
+    display: block;
+    position: relative;
+    margin-top: 0;
+    font-size: 15px;
+    color: #FF6F00;
+}
+
+/* ----------------------------------- */
+/* Footer ---------------------------- */
+/* ----------------------------------- */
+#results .results-footer {
+    width: 100%;
+    margin-top: 8px;
+    /* padding: 5px; */
+    color: #262e3d;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 11px;
+    text-align: justify;
+}
+
+#results .results-footer .attention-label {
+    margin-bottom: 5px;
+}
+
+#results .responsible-staff {
+    width: 100%;
+    text-align: right;
+    font-size: 12px;
+    margin-top: 30px;
+}
+
+/* ----------------------------------- */
+/* Doctor record --------------------- */
+/* ----------------------------------- */
+
+#refferals-table.table th,
+#refferals-table.table td {
+    padding: 5px 3px;
+    /* font-family: 'Verdana', 'Open Sans', sans-serif; */
+    font-size: 13px;
+
+}
+
+#refferals-table.table td {
+   text-align: center;
+   vertical-align: middle;
+   font-size: 14px;
+}
+
+
+
+#refferals-table.table th {
+    vertical-align: middle;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+
+#refferals-table_wrapper .row .col-sm-12 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.card-body .row .col {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+h4.card-title {
+    font-family: "RobotoLight", sans-serif;
+}
+
+.search-section {
+    margin-top: 1rem;
+}
+
+.dataTables_length {
+    margin-top: 15px;
+}
+
+.dataTables_length > label > select.form-control.form-control-sm {
+    height: 25px;
+}
+
+.form-group .btn.search-btn {
+    display: inline-block;
+    margin-top: 27px;
+    width: 100%;
+    max-width: 160px;
+    cursor: pointer;
+    line-height: 17px;
+    vertical-align: middle;
+    background: rgba(44,62,80,0.75);;
+    text-align: center;
+    color: #fff;
+}
+
+.form-group .btn.search-btn .ft-search {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -2px;
+    margin-right: 2px;
+}
+
+.card .card-header {
+    padding-bottom: 0;
+}
+
+.daterangepicker {
+    margin-top: 2px;
+}
+
+.btn.results-btn {
+    height: 30px;
+    padding-top: 5px;
+}
+
+.btn.results-btn .ft-check-square,
+.btn.results-btn .ft-x-square {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -2px;
+    margin-right: 2px;
+}
+
+.results-btn {
+    color: #fff;
+    cursor: pointer;
+}
+
+
+.page-item.active .page-link {
+    background-color: #BABFC7;
+    border-color: #BABFC7;
+    color: #404E67;
+}
+
+.page-link:focus, .page-link:hover {
+    color: #404E67;
+}
+
+.page-link {
+    color: #404E67;
+}

@@ -1,0 +1,240 @@
+.admin-panel .card {
+    box-shadow: 0 10px 40px 0 rgba(62, 57, 107, 0.12),
+                0 2px 9px 0 rgba(62, 57, 107, 0.12);
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.admin-panel .card:hover {
+    box-shadow: 0 10px 40px 0 rgba(62, 57, 107, 0.23),
+                0 2px 9px 0 rgba(62, 57, 107, 0.23);
+    /* transition: box-shadow 0.2s ease-in-out; */
+}
+
+.admin-panel .card .card-header,
+.admin-panel .card .card-content {
+    display: inline-block;
+}
+
+.admin-panel .card-header .card-icon {
+    display: inline-block;
+    color: #ffffff;
+    line-height: 32px;
+    padding-right: 1rem;
+    vertical-align: middle;
+}
+
+.admin-panel .card-header .card-icon .fa-hospital-o,
+.admin-panel .card-header .card-icon .fa-user-md,
+.admin-panel .card-header .card-icon .fa-money,
+.admin-panel .card-header .card-icon .fa-newspaper-o,
+.admin-panel .card-header .card-icon .fa-bullhorn,
+.admin-panel .card-header .card-icon .fa-road,
+.admin-panel .card-header .card-icon .fa-handshake-o,
+.admin-panel .card-header .card-icon .fa-flask,
+.admin-panel .card-header .card-icon .fa-users {
+    color: #ffffff;
+    font-size: 28px;
+
+}
+
+
+.admin-panel .card-header .card-title {
+    display: inline-block;
+    color: #ffffff;
+    line-height: 48px;
+}
+
+.form .form-section {
+    border-bottom: 1px solid #c3c8cf;
+}
+
+form .form-section,
+.card-header .card-title {
+    font-family: 'RobotoMedium', sans-serif;
+}
+
+.btn.status,
+.btn.activate,
+.btn.deactivate,
+.btn.delete,
+.btn.edit {
+    padding: 0;
+    min-width: 48px;
+    width: 48px;
+    text-align: center;
+}
+
+
+.btn.activate,
+.btn.deactivate,
+.btn.delete,
+.btn.edit {
+    padding: 3px 6px;
+
+}
+
+.published-status {
+    min-width: 140px;
+    max-width: 140px;
+    width: 140px;
+}
+
+.status-icon .fa-eye,
+.status-icon .fa-low-vision {
+    display: inline-block;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.status-icon .fa-eye {
+    color: #10C888;
+    color: #404E67;
+}
+
+.status-icon .fa-low-vision {
+    color: #B0BEC5;
+    color: #BABFC7;
+
+}
+
+
+.rating {
+    min-width: 81px;
+    max-width: 81px;
+    width: 81px;
+}
+
+
+
+img.rating-star {
+    display: inline-block;
+    width: 13px;
+    height: 13px;
+    /*margin-right: 1px;*/
+}
+
+img.rating-star:last-of-type {
+    /*margin-right: 0;*/
+}
+
+.btn.status .fa,
+.btn.activate .fa,
+.btn.deactivate .fa,
+.btn.delete .fa,
+.btn.edit .fa {
+    font-size: 18px;
+    font-weight: light;
+}
+
+.btn.status {
+    width: 125px;
+    padding-bottom: 2px;
+}
+
+.form-control[readonly] {
+    background-color: #ffffff;
+}
+
+.mce-panel {
+    border-radius: 4px;
+}
+
+.mce-tinymce {
+    -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0);
+}
+
+.news-date {
+    min-width: 85px;
+    max-width: 85px;
+    width: 85px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.news-edit {
+    min-width: 90px;
+    width: 90px;
+}
+
+.crud-action {
+    display: inline-block;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+.crud-action.first {
+    padding-left: 0;
+}
+
+.crud-action.last {
+    padding-right: 0;
+}
+
+.action-buttons {
+    min-width: 210px;
+    max-width: 210px;
+    width: 210px;
+}
+
+
+
+.page-item.active .page-link {
+    background-color: #BABFC7;
+    border-color: #BABFC7;
+    color: #404E67;
+}
+
+.page-link:focus, .page-link:hover {
+    color: #404E67;
+}
+
+.page-link {
+    color: #404E67;
+}
+
+div.dataTables_wrapper div.dataTables_paginate ul.pagination {
+    margin-top: 1rem;
+}
+
+table.table td .action-hidden {
+   /*visibility: hidden;*/
+   opacity: 0.2;
+}
+table.table tr:hover td .action-hidden {
+    opacity: 1;
+    /*visibility: visible;*/
+    transition: opacity 0.3s ease-in-out;
+}
+
+table.table-bordered.dataTable tbody th,
+table.table-bordered.dataTable tbody td {
+    vertical-align: middle;
+}
+
+.btn.new {
+    box-shadow: 0 2px 9px 0 rgba(62, 57, 107, 0.10),
+                0 2px 9px 0 rgba(62, 57, 107, 0.20);
+    padding-bottom: 12px;
+}
+
+.card-body #buyer-types-table_wrapper .row .col-sm-12,
+.card-body #buyer-types-table_wrapper .row .col-md-6 {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.card-body #news-table_wrapper .row .col-sm-12,
+.card-body #news-table_wrapper .row .col-md-6 {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+#news-table_wrapper .dataTables_length {
+    margin-top: 17px;
+}
+
+#buyer-types-table_wrapper .dataTables_length {
+    margin-top: 17px;
+}

@@ -1,0 +1,606 @@
+/*
+|--------------------------------------------------------------------------
+| Pages using this stylesheet:
+|
+| Imaging
+| Clinical laboratory
+| Physical therapy and rehabilitation
+|--------------------------------------------------------------------------
+*/
+
+
+html {
+    position: relative;
+    background: #F8FAFC;
+    background-color: #F8FAFC;
+}
+
+
+html::after {
+    content: "";
+    background: #F8FAFC;
+}
+
+
+html body {
+    position: relative;
+    background: #F8FAFC;
+    background-color: #F8FAFC;
+}
+
+footer.footer-light {
+    background-color: #fff;
+}
+
+.footer a.external-link {
+    color: #8795A1;
+}
+
+.footer a.external-link.gss {
+    color: #8795A1;
+}
+
+.footer .copyright-text {
+   color: #8795A1;
+}
+
+
+
+.main-menu.menu-dark {
+    /*background: rgba(103, 85, 86, 1);
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),
+                0 1px 5px 0 rgba(0,0,0,0.12),
+                0 3px 1px -2px rgba(0,0,0,0.2);*/
+
+    /*background: rgba(44,62,80,1);
+    background: -moz-linear-gradient(-45deg, rgba(44,62,80,1) 0%, rgba(44,62,80,1) 16%, rgba(189,195,199,1) 100%);
+    background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(44,62,80,1)), color-stop(16%, rgba(44,62,80,1)), color-stop(100%, rgba(189,195,199,1)));
+    background: -webkit-linear-gradient(-45deg, rgba(44,62,80,1) 0%, rgba(44,62,80,1) 16%, rgba(189,195,199,1) 100%);
+    background: -o-linear-gradient(-45deg, rgba(44,62,80,1) 0%, rgba(44,62,80,1) 16%, rgba(189,195,199,1) 100%);
+    background: -ms-linear-gradient(-45deg, rgba(44,62,80,1) 0%, rgba(44,62,80,1) 16%, rgba(189,195,199,1) 100%);
+    background: linear-gradient(135deg, rgba(44,62,80,1) 0%, rgba(44,62,80,1) 16%, rgba(189,195,199,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c3e50', endColorstr='#bdc3c7', GradientType=1 );*/
+
+    background-color: rgba(44, 62, 80, 0.85);
+
+
+
+}
+
+
+.main-content-wrapper {
+    padding: 2.5rem;
+    position: relative;
+    /* margin-top: 534px; */
+    /*margin-top: 280px;*/
+    margin-bottom: 3rem;
+    /*background-color: rgb(245, 247, 250);*/
+    /* z-index: 2; */
+    box-shadow: 0 -2px -2px 0 rgba(0,0,0,0.14),
+                0 -1px -5px 0 rgba(0,0,0,0.12),
+                0 -3px -1px -2px rgba(0,0,0,0.2);
+}
+
+@media (max-width: 576px) {
+    .main-content-wrapper {
+        margin-top: 0px;
+    }
+}
+
+
+.breadcrumbs-top {
+    margin-left: 0;
+    margin-top: 1rem;
+}
+
+.breadcrumb-wrapper {
+    padding-left: 0;
+}
+
+.section-title {
+    position: relative;
+    margin-bottom: 2.5rem;
+    /* margin-left: 2.5rem; */
+    font-family: 'RobotoSlabRegular', sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    text-align: left;
+}
+
+.section-tabs {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.specialty-description {
+    margin-bottom: 1.5rem;
+    /* margin-left: 2.5rem; */
+    text-align: justify;
+}
+
+.specialty-description-item {
+    margin-top: 0.5rem;
+    margin-left: 1.5rem;
+}
+
+.fa-check-square-o {
+    display: inline-block;
+    margin-right: 0.6rem;
+    margin-top: -1px;
+    font-size: 1.20rem;
+    vertical-align: middle;
+}
+
+.specialty-images-container {
+    margin-bottom: 1.5rem;
+    /* margin-right: 2.5rem; */
+}
+
+.specialty-cabinet-work-time {
+    margin-top: 1.5rem;
+    width: 100%;
+    text-align: center;
+    /*background-color: rgba(103, 85, 86, 0.85);*/
+    background-color: rgba(44,62,80,0.75);
+    color: #fff;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 4px;
+}
+
+.specialty-images {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+}
+
+.fa-clock-o,
+.fa-flask {
+    display: inline-block;
+    margin-right: 0.6rem;
+    margin-top: -2px;
+    font-size: 1.35rem;
+    vertical-align: middle;
+}
+
+.specialty-staff {
+    /* margin-left: 2.5rem; */
+    margin-bottom: 3rem;
+}
+
+.specialty-staff-title {
+    margin-bottom: 1.5rem;
+    font-family: 'RobotoRegular', sans-serif;
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+
+.specialty-staff-member {
+    padding-bottom: 2rem;
+}
+
+.staff-member,
+.staff-member-info {
+    display: inline-block;
+}
+
+.staff-member {
+    margin-right: 1.75rem;
+}
+
+.staff-member-image img {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+    width: 160px;
+    height: auto;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),
+                0 1px 5px 0 rgba(0,0,0,0.12),
+                0 3px 1px -2px rgba(0,0,0,0.2);
+}
+
+.staff-member-appointment a {
+    display: inline-block;
+    width: 160px;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: rgb(235,15, 40);
+    border-radius: 4px;
+    font-family: 'RobotoCondensedLight', sans-serif;
+    font-weight: 300;
+    font-size: 1rem;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.staff-member-appointment a:hover {
+    background-color: #ce2c20;
+}
+
+
+.staff-member-info {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.staff-member-name {
+    margin-bottom: 0.5rem;
+    font-family: 'RobotoRegular', sans-serif;
+    font-weight: 400;
+    font-size: 1.15rem;
+}
+
+.staff-member-specialty {
+    display: inline-block;
+    margin-bottom: 1.5rem;
+    padding: 3px 8px;
+    padding-right: 10px;
+    /*background-color: rgba(103, 85, 86, 0.85);*/
+    background-color: rgba(44,62,80,0.75);
+    border-radius: 2px;
+    font-family: 'RobotoLight', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 300;
+    color: #fff;
+    text-align: left;
+}
+
+.staff-member-location {
+    margin-bottom: 1.5rem;
+}
+
+.staff-member-practices .practice-icon img {
+    display: inline-block;
+    width: 30px;
+    height: auto;
+    margin-right: 8px;
+}
+
+.staff-member-practices .practice-icon img:hover {
+    cursor: pointer;
+}
+
+.staff-member-practices .practice-icon img.children {
+    width: auto;
+    height: 32px;
+}
+
+.staff-member-location .location-item {
+    margin-bottom: 5px;
+}
+
+.row .fa-hospital-o,
+.row .fa-caret-square-o-right,
+.row .fa-phone-square {
+    display: inline-block;
+    margin-right: 5px;
+    vertical-align: middle;
+    font-size: 1.5rem;
+    color: rgba(117, 117, 117, 1);
+}
+
+.row .fa-hospital-o {
+    margin-top: -7px;
+    font-size: 22px;
+}
+
+.staff-member-short-bio {
+    padding-top: 1.25rem;
+    text-align: justify;
+}
+
+a.clinical-laboratory-results {
+    display: block;
+    margin-top: 1.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 280px;
+    max-width: 280px;
+    text-align: center;
+    background-color: #e10f28;
+    border-radius: 4px;
+    font-family: 'RobotoCondensedLight', sans-serif;
+    font-weight: 300;
+    color: #fff;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-transform: uppercase;
+}
+
+a.clinical-laboratory-results:hover {
+    background-color: #ce2c20;
+}
+
+.service-title {
+    /*background-color: rgba(103, 85, 86, 0.85);*/
+    background-color: rgba(44,62,80,0.75);
+    color: #fff;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+
+}
+
+.service-title-main {
+    font-family: 'RobotoSlabBold', sans-serif;
+    font-size: 1.25rem;
+    font-weight: 500;
+    margin-bottom: 0.25rem;
+    text-align: center;
+}
+
+.service-title-sub {
+    font-family: 'RobotoCondensedLight', sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+    text-align: center;
+}
+
+
+.service-description .card-body {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.service-description .card-body.last-item {
+    padding-bottom: 1.75rem;
+}
+
+.service-description ul {
+    list-style: none;
+}
+
+ol.service-list {
+    padding-left: 1rem;
+}
+
+ul.service-list {
+    padding-left: 1rem;
+}
+
+ul.service-list.main {
+    padding-left: 1rem;
+}
+
+ul.service-list-2 {
+    padding-left: 1.55rem;
+}
+
+ul.service-list-2.sub-list {
+    padding-left: 0;
+}
+
+
+
+
+
+ul.service-list .fa-check-square-o {
+    margin-right: 3px;
+}
+
+ul.service-list .fa-caret-right {
+    display: inline-block;
+    font-size: 1.25rem;
+    margin-right: 0.25rem;
+    margin-top: -1px;
+    vertical-align: middle;
+}
+
+.moto blockquote {
+    /*background-color: rgba(103, 85, 86, 1);*/
+    background-color: rgba(44,62,80,0.75);
+    color: #fff;
+    font-family: 'MarckScriptRegular', cursive;
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    text-align: center;
+}
+
+.business-goal {
+    background-color: #eee;
+    border-left: 4px solid rgb(235,15, 40);
+    border-right: 4px solid rgb(235,15, 40);
+
+    font-family: 'RobotoLight', sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 170%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.about-us-description {
+
+    padding: 1.5rem;
+    text-align: justify;
+}
+
+.table.price-table th,
+.table.price-table td {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.table.price-table td:last-of-type {
+    text-align: right;
+    padding-left: 0;
+    min-width: 100px;
+}
+
+
+.price-list-files-container .fa-file-pdf-o {
+    display: inline;
+    color: #404E67;
+    font-size: 32px;
+    vertical-align: middle;
+}
+
+.price-list-file-title {
+    display: inline-block;
+    color: #404E67;
+    margin-left: 1rem;
+    vertical-align: middle;
+}
+
+.price-list-files-container h6.media-heading.mb-0 {
+    font-family: "Open Sans", sans-serif;
+}
+
+.table.price-table.laboratory {
+    margin-bottom: 0;
+}
+
+.main-content-wrapper.results-page {
+    margin-bottom: 1.5rem;
+}
+
+
+.results-links-container h6.media-heading.mb-0 {
+    font-family: "Open Sans", sans-serif;
+}
+
+.results-links-container .list-group-item:first-child {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.results-links-container a.list-group-item.active {
+    background-color: rgba(44,62,80,0.75);
+    border-top: 1px solid rgba(44,62,80,0.75);
+    border-right: 1px solid rgba(44,62,80,0.75);
+    border-bottom: 1px solid rgba(44,62,80,0.75);
+    border-left: 4px solid rgb(235,15, 40);
+    color: #fff;
+}
+
+.results-links-container a.list-group-item {
+    border-left: 4px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    background-color: #F5F7FA;
+    color: #404E67;
+    margin-bottom: 2px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+/*
+.results-links-container a.list-group-item:hover {
+    background-color: #ddd;
+}*/
+
+
+.results-links-container .list-group-item:last-child {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.results-wrapper .results-login {
+    width: 290px;
+    margin: 0 auto;
+}
+
+.results-wrapper .results-login .form-control:focus {
+    border-color: rgba(103, 85, 86, 0.6);
+}
+
+
+.results-wrapper form .form-section {
+    border-bottom: 1px solid #d3dce9;
+    text-align: center;
+
+}
+
+.results-wrapper .results-section-title {
+    font-family: 'RobotoRegular', sans-serif;
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+
+.results-wrapper form .form-actions {
+    border-top: 1px solid #d3dce9;
+    text-align: center;
+}
+
+.results-wrapper .btn-primary {
+    width: 140px;
+    text-transform: uppercase;
+    background-color: rgba(44,62,80,0.75) !important;
+    border-color: rgba(44,62,80,0.75) !important;
+    font-family: 'RobotoCondensedLight', sans-serif;
+    font-weight: 300;
+    font-size: 1rem;
+}
+
+.results-wrapper .btn-primary:hover {
+    cursor: pointer;
+}
+
+.content-date {
+    margin-bottom: 1.5rem;
+}
+
+.card-section-content {
+    padding: 1.5rem 1.5rem;
+}
+
+.card-section-content .section-subtitle {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    text-align: center;
+}
+
+.card-section-content .section-subtitle-2 {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    text-align: center;
+}
+
+.card-section-content .separator {
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.card-section-content .p-title {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    text-align: left;
+}
+
+.card-section-content .section-footer {
+    text-align: center;
+}
+
+.doctor-record-info {
+    display: inline-block;
+    position: absolute;
+    right: 1rem;
+    font-family: 'RobotoSlabLight', sans-serif;
+    font-size: 1.5rem;
+    vertical-align: middle;
+}
+
+.spacer {
+    display: inline-block;
+    width: 2rem;
+}
+
+.publication ol li,
+.publication ul li {
+    list-style: disc;
+}
+
+
+@media (max-width: 576px) {
+    .main-content-wrapper {
+        margin-top: 0;
+        padding-left: 0.25rem;
+        padding-right: 0.25rem;
+    }
+}

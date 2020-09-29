@@ -1,0 +1,172 @@
+/* ----------------------------------- */
+/* Print  ---------------------------- */
+/* ----------------------------------- */
+
+@media print {
+
+    @page {
+        size: A4;
+        margin: 1.1cm 1cm 1.1cm 2cm;
+    }
+
+    html, body {
+        width: 21cm;
+        height: 29.7cm;
+        line-height: 100%;
+    }
+
+    html body.fixed-navbar {
+        padding-top: 0;
+    }
+
+    .main-menu-content.ps-container.ps-theme-light {
+        display: none;
+    }
+
+    #results table td {
+        font-size: 9pt;
+    }
+
+    #results table.results-table.type-1 {
+        page-break-inside: avoid;
+        /* border-bottom: 1px solid #98a4b8; */
+    }
+
+    #results table.header-table,
+    #results table.patient-info,
+    #results table.doctor-info,
+    #results table.results-table.type-1,
+    #results table.results-table.type-2,
+    #results table.results-table.type-3,
+    #results .results-footer  {
+        width: 20cm;
+    }
+
+    #results table.patient-info tr td,
+    #results table.doctor-info tr td,
+    #results table.results-table.type-1 tr td,
+    #results table.results-table.type-2 tr td,
+    #results table.results-table.type-3 tr td  {
+        padding-top: 0.11cm;
+        padding-bottom: 0.11cm;
+        padding-left: 0.20cm;
+        padding-right: 0.20cm;
+    }
+
+    #results table.patient-info tr td {
+        padding-left: 0.10cm;
+        padding-right: 0.10cm;
+    }
+
+    #results .type-3 .group-items {
+        margin-bottom: 0.10cm;
+    }
+
+    #results .type-3 .group-columns {
+        margin-bottom: 0.15cm;
+    }
+
+    #results table.antibiogram td {
+        font-size: 8pt;
+    }
+
+    .type-2 .antibiogram td.antibiotic-interpretation {
+        width: 0.2cm;
+        text-align: center;
+    }
+
+    .do-not-print {
+        display: none;
+    }
+
+    .main-content-wrapper.results-page {
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+
+    .main-content-wrapper {
+        padding: 0;
+    }
+
+    #results.results-wrapper {
+        padding: 0;
+        /* width: 800px; */
+    }
+
+    #results table.header-table h2 {
+        color: #000;
+    }
+
+    #results .results-footer {
+        color: #000;
+        text-align: justify;
+    }
+
+    #results table td {
+        color: #000;
+    }
+
+    #results .status.low,
+    #results .status.high {
+        color: #000;
+        background: #fff;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    #results .status .fa-flask {
+        display: none;
+    }
+
+    #results .type-3 .fa-check-square-o.checked,
+    #results .type-3 .fa-check-square.checked,
+    #results .type-3 .fa-square-o.checked {
+        color: #000;
+        margin-right: 0;
+    }
+
+    #results .fa-check-square-o {
+        margin-right: 0;
+        color: #000;
+    }
+
+    #results .results-footer {
+        page-break-after: always;
+        width: 20.8cm;
+        padding-right: 0;
+    }
+
+    #results .main-menu .main-menu-content {
+        display: none;
+    }
+    #results .breadcrumbs-top {
+        display: none;
+    }
+
+    body.vertical-layout.vertical-menu.menu-expanded .content, body.vertical-layout.vertical-menu.menu-expanded .footer {
+        margin-left: 0;
+    }
+
+    body.vertical-layout.vertical-menu.menu-collapsed .content, body.vertical-layout.vertical-menu.menu-collapsed .footer {
+        margin-left: 0;
+    }
+
+    .main-content-wrapper.results-page {
+        padding-bottom: 0;
+    }
+
+    .container-fluid {
+        padding: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #results .clinical-laboratory-legend {
+        color: #000;
+    }
+
+    #results .legend.status-high,
+    #results .legend.status-low {
+        color: #000;
+    }
+}
