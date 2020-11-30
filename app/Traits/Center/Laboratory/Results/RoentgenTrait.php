@@ -32,9 +32,29 @@ trait RoentgenTrait {
             'result_name' => ($localization == 'bg') ? $resultRaw['NAME'] : $resultRaw['NAME_EN'],
             'result_value' => $roentgen_result,
             'result_completed' => $resultRaw['COMPLETED'],
+            'result_image_path' => $this->getImageUrl($resultRaw['ID']),
         ];
 
         return $result;
+    }
+
+    protected function getImageUrl($resultId)
+    {
+        $queryString = 'SELECT
+                            image_ro.path AS image_network_path
+                        FROM image_ro
+                        WHERE image_ro.fidrez = :result_id';
+
+        $generalImageDataRaw = DB::connection('firebird')
+        ->select($queryString, ['result_id' => $resultId]);
+
+        return array_map(
+            function ($image_network_path) {
+                $path_parts = pathinfo($image_network_path->{'IMAGE_NETWORK_PATH'});
+                return sprintf('/%s/%s', basename($path_parts['dirname']), $path_parts['basename']);
+            },
+            $generalImageDataRaw
+        );
     }
 
 }

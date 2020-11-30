@@ -16,4 +16,17 @@
             @endif
         </td>
     </tr>
+    @if ($result['result_image_path'])
+    <tr>
+        <td>
+            <div class="image_row">
+                @foreach($result['result_image_path'] as $result_image_path)
+                <div class="image_column">
+                <a title="" href="{{ $result_image_path }}" target="_blank"><img src="{{ $result_image_path }}" alt="" style="width:100px"></a> 
+                </div>
+                @endforeach
+            </div>
+        </td>
+    </tr>
+    @endif
 </table>

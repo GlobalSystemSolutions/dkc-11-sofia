@@ -622,6 +622,16 @@ table.results-table.type-5 tr td {
     color: #FF6F00;
 }
 
+#results .type-5 .image_row {
+    display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+#results .type-5 .image_column {
+    flex: 33.33%;
+    padding: 5px;
+}
+
 /* ----------------------------------- */
 /* Footer ---------------------------- */
 /* ----------------------------------- */
