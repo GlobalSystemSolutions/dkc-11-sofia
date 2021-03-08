@@ -60,7 +60,7 @@
                                         <div class="staff-member-location">
                                             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
                                             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 28</div>
-                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
+                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0899841707</div>
                                         </div>
                                     </div>
 
@@ -100,7 +100,7 @@
                                         <div class="staff-member-location">
                                             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
                                             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 12</div>
-                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
+                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0888250913</div>
                                         </div>
                                     </div>
 
@@ -140,7 +140,7 @@
                                         <div class="staff-member-location">
                                             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
                                             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 12</div>
-                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
+                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0888217019</div>
                                         </div>
                                     </div>
 
@@ -180,7 +180,7 @@
                                         <div class="staff-member-location">
                                             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
                                             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 8</div>
-                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0888986966</div>
+                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0898540014</div>
                                         </div>
                                     </div>
 
@@ -220,7 +220,7 @@
                                         <div class="staff-member-location">
                                             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
                                             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 10</div>
-                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
+                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0888446951</div>
                                         </div>
                                     </div>
 
@@ -260,7 +260,7 @@
                                         <div class="staff-member-location">
                                             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
                                             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 22</div>
-                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
+                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0898348423</div>
                                         </div>
                                     </div>
 
@@ -300,7 +300,7 @@
                                         <div class="staff-member-location">
                                             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
                                             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 7</div>
-                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
+                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0888947211</div>
                                         </div>
                                     </div>
 
@@ -320,6 +320,166 @@
                                                 <tr>
                                                     <th scope="row">Четна дата</th>
                                                     <td>13:00 - 15:00</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <div class="specialty-staff-member">
+                                    <div class="staff-member">
+                                        <div class="staff-member-image">
+                                            <img class="general-practition" src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Иван Минков">
+                                        </div>
+                                    </div>
+
+                                    <div class="staff-member-info">
+                                        <div class="staff-member-name">Д-р Иван Минков</div>
+                                        <div class="staff-member-specialty">Общопрактикуващ лекар</div>
+
+                                        <div class="staff-member-location">
+                                            <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
+                                            <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 8</div>
+                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0887339410</div>
+                                        </div>
+                                    </div>
+
+                                    <div class="staff-business-hours">
+                                        <table class="table table-striped">
+                                            <thead>
+                                                <tr>
+                                                    <th scope="col">&nbsp;</th>
+                                                    <th scope="col">Приемно време</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <th scope="row">Пон,Ср,Пет</th>
+                                                    <td>08:30 - 13:30</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">Вт.Чет</th>
+                                                    <td>13:30 - 18:30</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <div class="specialty-staff-member">
+                                    <div class="staff-member">
+                                        <div class="staff-member-image">
+                                            <img class="general-practition" src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Максим Митев">
+                                        </div>
+                                    </div>
+
+                                    <div class="staff-member-info">
+                                        <div class="staff-member-name">Д-р Максим Митев</div>
+                                        <div class="staff-member-specialty">Общопрактикуващ лекар</div>
+
+                                        <div class="staff-member-location">
+                                            <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
+                                            <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 10</div>
+                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0877661220</div>
+                                        </div>
+                                    </div>
+
+                                    <div class="staff-business-hours">
+                                        <table class="table table-striped">
+                                            <thead>
+                                                <tr>
+                                                    <th scope="col">&nbsp;</th>
+                                                    <th scope="col">Приемно време</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <th scope="row">Нечетна дата</th>
+                                                    <td>08:00 - 13:00</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">Четна дата</th>
+                                                    <td>14:00 - 19:00</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <div class="specialty-staff-member">
+                                    <div class="staff-member">
+                                        <div class="staff-member-image">
+                                            <img class="general-practition" src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Сергей Иванов">
+                                        </div>
+                                    </div>
+
+                                    <div class="staff-member-info">
+                                        <div class="staff-member-name">Д-р Сергей Иванов</div>
+                                        <div class="staff-member-specialty">Общопрактикуващ лекар</div>
+
+                                        <div class="staff-member-location">
+                                            <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
+                                            <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 8</div>
+                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0899892122</div>
+                                        </div>
+                                    </div>
+
+                                    <div class="staff-business-hours">
+                                        <table class="table table-striped">
+                                            <thead>
+                                                <tr>
+                                                    <th scope="col">&nbsp;</th>
+                                                    <th scope="col">Приемно време</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <th scope="row">Пон,Ср,Петък</th>
+                                                    <td>14:30 - 19:30</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">Вт,Чет</th>
+                                                    <td>8:30 - 13:30</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <div class="specialty-staff-member">
+                                    <div class="staff-member">
+                                        <div class="staff-member-image">
+                                            <img class="general-practition" src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Дмитрий Вуколов">
+                                        </div>
+                                    </div>
+
+                                    <div class="staff-member-info">
+                                        <div class="staff-member-name">Д-р Дмитрий Вуколов</div>
+                                        <div class="staff-member-specialty">Общопрактикуващ лекар</div>
+
+                                        <div class="staff-member-location">
+                                            <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
+                                            <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 7</div>
+                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
+                                        </div>
+                                    </div>
+
+                                    <div class="staff-business-hours">
+                                        <table class="table table-striped">
+                                            <thead>
+                                                <tr>
+                                                    <th scope="col">&nbsp;</th>
+                                                    <th scope="col">Приемно време</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <th scope="row">Пон,Ср,Пет</th>
+                                                    <td>8:30 - 13:30</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">Вт, Чет</th>
+                                                    <td>14:30 - 19:30</td>
                                                 </tr>
                                             </tbody>
                                         </table>
