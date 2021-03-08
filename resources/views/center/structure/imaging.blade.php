@@ -125,6 +125,47 @@
                             </div>
 
                         </div>
+
+<div class="specialty-staff-member">
+
+    <div class="staff-member">
+        <div class="staff-member-image">
+            <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Теодора Тонева">
+        </div>
+
+        <!-- <div class="staff-member-appointment">
+            <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/imaging/mariya-karamanova" target="_blank">Резервирай час</a>
+        </div> -->
+    </div>
+
+    <div class="staff-member-info">
+        <div class="staff-member-name">Д-р Теодора Тонева</div>
+        <div class="staff-member-specialty">Специалист образна диагностика</div>
+
+        <div class="staff-member-location">
+            <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
+            <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 6</div>
+            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
+        </div>
+
+        <div class="staff-member-practices">
+            <span class="practice-icon">
+                <img src="{{ config('app.url') }}/app-assets/images/practice-nzok.png" title="Работи с НЗОК">
+            </span>
+            <span class="practice-icon">
+                <img src="{{ config('app.url') }}/app-assets/images/practice-cash.png" title="Работи платено">
+            </span>
+            <span class="practice-icon">
+                <img class="children" src="{{ config('app.url') }}/app-assets/images/practice-pediatric.png" title="Работи с деца">
+            </span>
+        </div>
+    </div>
+
+    <!-- <div class="staff-member-short-bio">
+        Д-р Караманова е специалист, който работи по европейските стандарти за добра медицинска практика. Тя е била участъков терапевт по рентгенология в МБАЛ "Света Анна" София. Практикува своята специалност във Втора МБАЛ София от 2000г, била е част и от екипа на Втори медицински център София. Към момента д-р Караманова работи в ДКЦ ХІ София. Основната и задача е грижата към пациента, доброто изслушване, което води и до добрата диагностика и съответно добър резултат на лечение.
+    </div> -->
+
+</div>
                     </div>
 
                 </div>
