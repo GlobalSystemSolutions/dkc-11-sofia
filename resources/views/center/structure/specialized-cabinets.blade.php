@@ -1418,6 +1418,14 @@
                                 </div>
                             </div>
                         </a>
+
+                        <a class="list-group-item" id="base-tab14" data-toggle="tab" aria-controls="tab-14" href="#tab-14" aria-expanded="false">
+                            <div class="media">
+                                <div class="media-body w-100">
+                                    <h6 class="media-heading mb-0">Вътрешни болести</h6>
+                                </div>
+                            </div>
+                        </a>
                     </div>
                 </div>
             </div>
