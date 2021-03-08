@@ -41,22 +41,10 @@
                                 <span class="promotion-icon"><i class="fa fa-gift"></i></span>Текущи промоции
                             </div>
                             <div class="promotion-container">
-                                <div class="promotion-dates">8 Октомври - 8 Ноември</div>
-                                <div class="promotion-text subtitle">Със съдействието на Столична община</div>
-                                <p class="promotion-text">БЕЗПЛАТНИ мамологични прегледи с най-иновативния апарат Braster Pro за ранна диагностика на рак на гърдата</p>
-                                <div><a href="https://www.dkc11-sofia.com/news/promo-bezplatni-mamologichni-pregledi-s-nay-inovativniya-aparat-braster-pro-za-ranna-diagnostika-na-rak-na-grdata-jxwqdtvucfo835ow" class="more-info">Прочети повече</a></div>
-                            </div>
-
-                            <div class="promotion-container">
-                                <div class="promotion-dates">9 Септември - 11 Октомври</div>
-                                <p class="promotion-text">Профилактика и контрол на ритъмно-проводните нарушения</p>
-                                <div><a href="https://www.dkc11-sofia.com/news/promo-profilaktika-i-kontrol-na-ritmno-provodnite-narusheniya-5kxubj74mg8mqeje" class="more-info">Прочети повече</a></div>
-                            </div>
-
-                            <div class="promotion-container">
-                                <div class="promotion-dates">9 Септември - 11 Октомври</div>
-                                <p class="promotion-text">Профилактика и контрол на Артериалната хипертония</p>
-                                <div><a href="https://www.dkc11-sofia.com/news/promo-profilaktika-i-kontrol-na-arterialnata-khipertoniya-bx1rcyv0ezd5nb84" class="more-info">Прочети повече</a></div>
+                                <!-- <div class="promotion-dates">8 Октомври - 8 Ноември</div> -->
+                                <div class="promotion-text subtitle">Текущи промоции</div>
+                                <!-- <p class="promotion-text">БЕЗПЛАТНИ мамологични прегледи с най-иновативния апарат Braster Pro за ранна диагностика на рак на гърдата</p> -->
+                                <div><a href="https://www.dkc11-sofia.com/news/tekushchi-promotsii-bcgnwzxdzhfjhjr5" class="more-info">Прочети повече</a></div>
                             </div>
                         </div>
                     </div>
