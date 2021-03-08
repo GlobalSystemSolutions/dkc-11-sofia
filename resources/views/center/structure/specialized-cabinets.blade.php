@@ -151,6 +151,45 @@
                                 </div> --}}
                             </div>
 
+                            <div class="specialty-staff-member">
+
+                                <div class="staff-member">
+                                    <div class="staff-member-image">
+                                        <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Владя Ангелова">
+                                    </div>
+
+                                    <!-- <div class="staff-member-appointment">
+                                        <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/obstetrics-and-gynecology/inshirah-alsharafi" target="_blank">Резервирай час</a>
+                                    </div> -->
+                                </div>
+
+                                <div class="staff-member-info">
+                                    <div class="staff-member-name">Д-р Владя Ангелова</div>
+                                    <div class="staff-member-specialty">Акушер-гинеколог</div>
+
+                                    <div class="staff-member-location">
+                                        <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 2</div>
+                                        <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 20</div>
+                                        <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
+                                    </div>
+
+                                    <div class="staff-member-practices">
+                                        <span class="practice-icon">
+                                            <img src="{{ config('app.url') }}/app-assets/images/practice-nzok.png" title="Работи с НЗОК">
+                                        </span>
+                                        <span class="practice-icon">
+                                            <img src="{{ config('app.url') }}/app-assets/images/practice-cash.png" title="Работи платено">
+                                        </span>
+                                        <span class="practice-icon">
+                                            <img class="children" src="{{ config('app.url') }}/app-assets/images/practice-pediatric.png" title="Работи с деца">
+                                        </span>
+                                    </div>
+                                </div>
+                                {{-- <div class="staff-member-short-bio">
+                                    Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста.
+                                </div> --}}
+                            </div>
+
                         </div>
                     </div>
 
@@ -436,16 +475,16 @@
 
                                 <div class="staff-member">
                                     <div class="staff-member-image">
-                                        <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Надежда Тонева">
+                                        <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Йовица Божков">
                                     </div>
 
-                                    <div class="staff-member-appointment">
+                                    <!-- <div class="staff-member-appointment">
                                         <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/cardiology/nadezhda-toneva" target="_blank">Резервирай час</a>
-                                    </div>
+                                    </div> -->
                                 </div>
 
                                 <div class="staff-member-info">
-                                    <div class="staff-member-name">Д-р Надежда Тонева</div>
+                                    <div class="staff-member-name">Д-р Йовица Божков</div>
                                     <div class="staff-member-specialty">Кардиолог</div>
 
                                     <div class="staff-member-location">
@@ -616,6 +655,45 @@
                                 </div> --}}
                             </div>
 
+<div class="specialty-staff-member">
+
+    <div class="staff-member">
+        <div class="staff-member-image">
+            <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Боянка Семова">
+        </div>
+
+        <!-- <div class="staff-member-appointment">
+            <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/obstetrics-and-gynecology/inshirah-alsharafi" target="_blank">Резервирай час</a>
+        </div> -->
+    </div>
+
+    <div class="staff-member-info">
+        <div class="staff-member-name">Д-р Боянка Семова</div>
+        <div class="staff-member-specialty">Дерматолог</div>
+
+        <div class="staff-member-location">
+            <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 2</div>
+            <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 20</div>
+            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
+        </div>
+
+        <div class="staff-member-practices">
+            <span class="practice-icon">
+                <img src="{{ config('app.url') }}/app-assets/images/practice-nzok.png" title="Работи с НЗОК">
+            </span>
+            <span class="practice-icon">
+                <img src="{{ config('app.url') }}/app-assets/images/practice-cash.png" title="Работи платено">
+            </span>
+            <span class="practice-icon">
+                <img class="children" src="{{ config('app.url') }}/app-assets/images/practice-pediatric.png" title="Работи с деца">
+            </span>
+        </div>
+    </div>
+    {{-- <div class="staff-member-short-bio">
+        Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста.
+    </div> --}}
+</div>
+
                         </div>
 
 
@@ -649,21 +727,21 @@
 
                                 <div class="staff-member">
                                     <div class="staff-member-image">
-                                        <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Здравка Бакалова">
+                                        <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Любомир Тодоров">
                                     </div>
 
-                                    <div class="staff-member-appointment">
+                                    <!-- <div class="staff-member-appointment">
                                         <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/neurology/zdravka-bakalova" target="_blank">Резервирай час</a>
-                                    </div>
+                                    </div> -->
                                 </div>
 
                                 <div class="staff-member-info">
-                                    <div class="staff-member-name">Д-р Здравка Бакалова</div>
+                                    <div class="staff-member-name">Д-р Любомир Тодоров</div>
                                     <div class="staff-member-specialty">Невролог</div>
 
                                     <div class="staff-member-location">
                                         <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 2</div>
-                                        {{-- <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 302</div> --}}
+                                        <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 21</div>
                                         <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
                                     </div>
 
@@ -752,7 +830,7 @@
                         <div class="specialty-staff">
                             <div class="specialty-staff-title">Специалисти</div>
 
-                            <div class="specialty-staff-member">
+                            <!-- <div class="specialty-staff-member">
 
                                 <div class="staff-member">
                                     <div class="staff-member-image">
@@ -789,7 +867,7 @@
                                 {{-- <div class="staff-member-short-bio">
                                     Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста.
                                 </div> --}}
-                            </div>
+                            </div> -->
                         </div>
                     </div>
 
@@ -856,6 +934,49 @@
                                 </div> --}}
                             </div>
                         </div>
+
+<div class="specialty-staff">
+    <div class="specialty-staff-title">Специалисти</div>
+
+    <div class="specialty-staff-member">
+
+        <div class="staff-member">
+            <div class="staff-member-image">
+                <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Мариела Сотирова">
+            </div>
+
+            {{-- <div class="staff-member-appointment">
+                <a href="" target="_blank">Резервирай час</a>
+            </div> --}}
+        </div>
+
+        <div class="staff-member-info">
+            <div class="staff-member-name">Д-р Мариела Сотирова</div>
+            <div class="staff-member-specialty">Офталмолог</div>
+
+            <div class="staff-member-location">
+                <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
+                <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 5</div>
+                <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
+            </div>
+
+            <div class="staff-member-practices">
+                <span class="practice-icon">
+                    <img src="{{ config('app.url') }}/app-assets/images/practice-nzok.png" title="Работи с НЗОК">
+                </span>
+                <span class="practice-icon">
+                    <img src="{{ config('app.url') }}/app-assets/images/practice-cash.png" title="Работи платено">
+                </span>
+                <span class="practice-icon">
+                    <img class="children" src="{{ config('app.url') }}/app-assets/images/practice-pediatric.png" title="Работи с деца">
+                </span>
+            </div>
+        </div>
+        {{-- <div class="staff-member-short-bio">
+            Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста.
+        </div> --}}
+    </div>
+</div>
 
 
                     </div>
@@ -1142,21 +1263,21 @@
 
                                 <div class="staff-member">
                                     <div class="staff-member-image">
-                                        <img src="{{ config('app.url') }}/assets/images/profiles/330-ivan-voev.jpg" title="Д-р Иван Воев">
+                                        <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Поля Моева">
                                     </div>
 
-                                    <div class="staff-member-appointment">
+                                    <!-- <div class="staff-member-appointment">
                                         <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/otolaryngology/ivan-voev" target="_blank">Резервирай час</a>
-                                    </div>
+                                    </div> -->
                                 </div>
 
                                 <div class="staff-member-info">
-                                    <div class="staff-member-name">Д-р Иван Воев</div>
+                                    <div class="staff-member-name">Д-р Поля Моева</div>
                                     <div class="staff-member-specialty">Специлиаст УНГ</div>
 
                                     <div class="staff-member-location">
                                         <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 2</div>
-                                        {{-- <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 302</div> --}}
+                                        <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 30</div>
                                         <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
                                     </div>
 
@@ -1285,6 +1406,210 @@
 
                     </div>
 
+                    {{-- Вътрешни болести --}}
+                    <div role="tabpanel" class="tab-pane" id="tab-14" aria-expanded="true" aria-labelledby="base-tab14">
+
+                        <div class="specialty-title">Вътрешни болести</div>
+
+                        <!-- <div class="specialty-description">
+                            Като отделна наука педиатрията се оформя през ХІХ в.<br><br>Съдържанието на науката за лекуване на детските болести (педиатрията) днес далече надхвърля тесния етимологичен смисъл на тази дума.<br><br>Педиатрията е основна дисциплина в медицината, появила се сравнително по-късно в исторически аспект от други основни медицински специалности. Основна цел е детското здравеопазване, но наред с това педиатърът осъществява специфична и неспецифична профилактика на инфекциозните и недоимачни детски заболявания. Съблюдава растежа и развитието, отглеждането и възпитанието, както и рационалното хранене на детето във всички възрастови периоди от раждането до края на пубертетската възраст. Целта е откриване на вродените заболавания и впоследствие предоставянето им на другите специалности.<br><br>
+
+                            Преглед при педиатър се извършва по няколко начина:
+                            <div class="specialty-description-item">
+                                <span><i class="fa fa-check-square-o"></i>С направление &numero;3 от личен лекар.</span>
+                            </div>
+                            <div class="specialty-description-item">
+                                <span><i class="fa fa-check-square-o"></i>По линия на допълнително здравно осигуряване.</span>
+                            </div>
+                            <div class="specialty-description-item">
+                                <span><i class="fa fa-check-square-o"></i>Чрез платен прием.</span>
+                            </div>
+
+                        </div> -->
+
+                        <div class="specialty-staff">
+                            <div class="specialty-staff-title">Специалисти</div>
+
+                            <div class="specialty-staff-member">
+
+                                <div class="staff-member">
+                                    <div class="staff-member-image">
+                                        <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Иван Кръстев">
+                                    </div>
+
+                                    <!-- <div class="staff-member-appointment">
+                                        <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/pediatrics/lora-buchukova" target="_blank">Резервирай час</a>
+                                    </div> -->
+                                </div>
+
+                                <div class="staff-member-info">
+                                    <div class="staff-member-name">Д-р Иван Кръстев</div>
+                                    <!-- <div class="staff-member-specialty">Педиатър</div> -->
+
+                                    <div class="staff-member-location">
+                                        <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
+                                        <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 4</div>
+                                        <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
+                                    </div>
+
+                                    <div class="staff-member-practices">
+                                        <span class="practice-icon">
+                                            <img src="{{ config('app.url') }}/app-assets/images/practice-nzok.png" title="Работи с НЗОК">
+                                        </span>
+                                        <span class="practice-icon">
+                                            <img src="{{ config('app.url') }}/app-assets/images/practice-cash.png" title="Работи платено">
+                                        </span>
+                                        <span class="practice-icon">
+                                            <img class="children" src="{{ config('app.url') }}/app-assets/images/practice-pediatric.png" title="Работи с деца">
+                                        </span>
+                                    </div>
+                                </div>
+                                {{-- <div class="staff-member-short-bio">
+                                    Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста.
+                                </div> --}}
+                            </div>
+
+                        </div>
+
+
+                    </div>
+
+                    {{-- Образна диагностика --}}
+                    <div role="tabpanel" class="tab-pane" id="tab-15" aria-expanded="true" aria-labelledby="base-tab15">
+
+                        <div class="specialty-title">Образна диагностика</div>
+
+                        <!-- <div class="specialty-description">
+                            Като отделна наука педиатрията се оформя през ХІХ в.<br><br>Съдържанието на науката за лекуване на детските болести (педиатрията) днес далече надхвърля тесния етимологичен смисъл на тази дума.<br><br>Педиатрията е основна дисциплина в медицината, появила се сравнително по-късно в исторически аспект от други основни медицински специалности. Основна цел е детското здравеопазване, но наред с това педиатърът осъществява специфична и неспецифична профилактика на инфекциозните и недоимачни детски заболявания. Съблюдава растежа и развитието, отглеждането и възпитанието, както и рационалното хранене на детето във всички възрастови периоди от раждането до края на пубертетската възраст. Целта е откриване на вродените заболавания и впоследствие предоставянето им на другите специалности.<br><br>
+
+                            Преглед при педиатър се извършва по няколко начина:
+                            <div class="specialty-description-item">
+                                <span><i class="fa fa-check-square-o"></i>С направление &numero;3 от личен лекар.</span>
+                            </div>
+                            <div class="specialty-description-item">
+                                <span><i class="fa fa-check-square-o"></i>По линия на допълнително здравно осигуряване.</span>
+                            </div>
+                            <div class="specialty-description-item">
+                                <span><i class="fa fa-check-square-o"></i>Чрез платен прием.</span>
+                            </div>
+
+                        </div> -->
+
+                        <div class="specialty-staff">
+                            <div class="specialty-staff-title">Специалисти</div>
+
+                            <div class="specialty-staff-member">
+
+                                <div class="staff-member">
+                                    <div class="staff-member-image">
+                                        <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Теодора Тонева">
+                                    </div>
+
+                                    <!-- <div class="staff-member-appointment">
+                                        <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/pediatrics/lora-buchukova" target="_blank">Резервирай час</a>
+                                    </div> -->
+                                </div>
+
+                                <div class="staff-member-info">
+                                    <div class="staff-member-name">Д-р Теодора Тонева</div>
+                                    <!-- <div class="staff-member-specialty">Педиатър</div> -->
+
+                                    <div class="staff-member-location">
+                                        <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
+                                        <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 6</div>
+                                        <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
+                                    </div>
+
+                                    <div class="staff-member-practices">
+                                        <span class="practice-icon">
+                                            <img src="{{ config('app.url') }}/app-assets/images/practice-nzok.png" title="Работи с НЗОК">
+                                        </span>
+                                        <span class="practice-icon">
+                                            <img src="{{ config('app.url') }}/app-assets/images/practice-cash.png" title="Работи платено">
+                                        </span>
+                                        <span class="practice-icon">
+                                            <img class="children" src="{{ config('app.url') }}/app-assets/images/practice-pediatric.png" title="Работи с деца">
+                                        </span>
+                                    </div>
+                                </div>
+                                {{-- <div class="staff-member-short-bio">
+                                    Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста.
+                                </div> --}}
+                            </div>
+
+                        </div>
+
+
+                    </div>
+
+{{-- Физикална терапия и рехабилитация --}}
+<div role="tabpanel" class="tab-pane" id="tab-16" aria-expanded="true" aria-labelledby="base-tab16">
+
+    <div class="specialty-title">Физикална терапия и рехабилитация</div>
+
+    <!-- <div class="specialty-description">
+        Като отделна наука педиатрията се оформя през ХІХ в.<br><br>Съдържанието на науката за лекуване на детските болести (педиатрията) днес далече надхвърля тесния етимологичен смисъл на тази дума.<br><br>Педиатрията е основна дисциплина в медицината, появила се сравнително по-късно в исторически аспект от други основни медицински специалности. Основна цел е детското здравеопазване, но наред с това педиатърът осъществява специфична и неспецифична профилактика на инфекциозните и недоимачни детски заболявания. Съблюдава растежа и развитието, отглеждането и възпитанието, както и рационалното хранене на детето във всички възрастови периоди от раждането до края на пубертетската възраст. Целта е откриване на вродените заболавания и впоследствие предоставянето им на другите специалности.<br><br>
+
+        Преглед при педиатър се извършва по няколко начина:
+        <div class="specialty-description-item">
+            <span><i class="fa fa-check-square-o"></i>С направление &numero;3 от личен лекар.</span>
+        </div>
+        <div class="specialty-description-item">
+            <span><i class="fa fa-check-square-o"></i>По линия на допълнително здравно осигуряване.</span>
+        </div>
+        <div class="specialty-description-item">
+            <span><i class="fa fa-check-square-o"></i>Чрез платен прием.</span>
+        </div>
+
+    </div> -->
+
+    <div class="specialty-staff">
+        <div class="specialty-staff-title">Специалисти</div>
+
+        <div class="specialty-staff-member">
+
+            <div class="staff-member">
+                <div class="staff-member-image">
+                    <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Диана Тенева">
+                </div>
+
+                <!-- <div class="staff-member-appointment">
+                    <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/pediatrics/lora-buchukova" target="_blank">Резервирай час</a>
+                </div> -->
+            </div>
+
+            <div class="staff-member-info">
+                <div class="staff-member-name">Д-р Диана Тенева</div>
+                <!-- <div class="staff-member-specialty">Педиатър</div> -->
+
+                <div class="staff-member-location">
+                    <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
+                    <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 6</div>
+                    <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
+                </div>
+
+                <div class="staff-member-practices">
+                    <span class="practice-icon">
+                        <img src="{{ config('app.url') }}/app-assets/images/practice-nzok.png" title="Работи с НЗОК">
+                    </span>
+                    <span class="practice-icon">
+                        <img src="{{ config('app.url') }}/app-assets/images/practice-cash.png" title="Работи платено">
+                    </span>
+                    <span class="practice-icon">
+                        <img class="children" src="{{ config('app.url') }}/app-assets/images/practice-pediatric.png" title="Работи с деца">
+                    </span>
+                </div>
+            </div>
+            {{-- <div class="staff-member-short-bio">
+                Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста.
+            </div> --}}
+        </div>
+
+    </div>
+
+
+</div>
+
                 </div>
             </div>
 
@@ -1347,21 +1672,21 @@
                             </div>
                         </a>
 
-                        {{-- <a href="{{ route('imaging') }}" class="list-group-item" >
+                        <a class="list-group-item" id="base-tab8" data-toggle="tab" aria-controls="tab-15" href="#tab-15" aria-expanded="false" >
                             <div class="media">
                                 <div class="media-body w-100">
                                     <h6 class="media-heading mb-0">Образна диагностика</h6>
                                 </div>
                             </div>
-                        </a> --}}
+                        </a>
 
-                        <a class="list-group-item" id="base-tab7" data-toggle="tab" aria-controls="tab-7" href="#tab-7" aria-expanded="false" >
+                        <!-- <a class="list-group-item" id="base-tab7" data-toggle="tab" aria-controls="tab-7" href="#tab-7" aria-expanded="false" >
                             <div class="media">
                                 <div class="media-body w-100">
                                     <h6 class="media-heading mb-0">Ортопедия и травматология</h6>
                                 </div>
                             </div>
-                        </a>
+                        </a> -->
 
                         <a class="list-group-item" id="base-tab8" data-toggle="tab" aria-controls="tab-8" href="#tab-8" aria-expanded="false" >
                             <div class="media">
@@ -1403,13 +1728,13 @@
                             </div>
                         </a>
 
-                        {{-- <a href="{{ route('physical-therapy-and-rehabilitation') }}" class="list-group-item" >
+                        <a class="list-group-item" id="base-tab8" data-toggle="tab" aria-controls="tab-16" href="#tab-16" aria-expanded="false" >
                             <div class="media">
                                 <div class="media-body w-100">
                                     <h6 class="media-heading mb-0">Физикална и рехабилитационна медицина</h6>
                                 </div>
                             </div>
-                        </a> --}}
+                        </a>
 
                         <a class="list-group-item" id="base-tab13" data-toggle="tab" aria-controls="tab-13" href="#tab-13" aria-expanded="false">
                             <div class="media">
