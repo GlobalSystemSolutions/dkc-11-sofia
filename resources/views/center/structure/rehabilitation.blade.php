@@ -85,16 +85,16 @@
 
                         </div>
 
-<div class="specialty-staff-member">
+<!-- <div class="specialty-staff-member">
 
     <div class="staff-member">
         <div class="staff-member-image">
             <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Диана Тенева">
         </div>
 
-        <!-- <div class="staff-member-appointment">
+        <div class="staff-member-appointment">
             <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/rehabilitation/donka-kazakova" target="_blank">Резервирай час</a>
-        </div> -->
+        </div>
     </div>
 
     <div class="staff-member-info">
@@ -120,7 +120,7 @@
         </div>
     </div>
 
-</div>
+</div> -->
 
                     </div>
 

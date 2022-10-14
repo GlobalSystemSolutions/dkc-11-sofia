@@ -126,16 +126,16 @@
 
                         </div>
 
-<div class="specialty-staff-member">
+<!-- <div class="specialty-staff-member">
 
     <div class="staff-member">
         <div class="staff-member-image">
             <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Теодора Тонева">
         </div>
 
-        <!-- <div class="staff-member-appointment">
+        <div class="staff-member-appointment">
             <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/imaging/mariya-karamanova" target="_blank">Резервирай час</a>
-        </div> -->
+        </div>
     </div>
 
     <div class="staff-member-info">
@@ -161,11 +161,11 @@
         </div>
     </div>
 
-    <!-- <div class="staff-member-short-bio">
+    <div class="staff-member-short-bio">
         Д-р Караманова е специалист, който работи по европейските стандарти за добра медицинска практика. Тя е била участъков терапевт по рентгенология в МБАЛ "Света Анна" София. Практикува своята специалност във Втора МБАЛ София от 2000г, била е част и от екипа на Втори медицински център София. Към момента д-р Караманова работи в ДКЦ ХІ София. Основната и задача е грижата към пациента, доброто изслушване, което води и до добрата диагностика и съответно добър резултат на лечение.
-    </div> -->
+    </div>
 
-</div>
+</div> -->
                     </div>
 
                 </div>

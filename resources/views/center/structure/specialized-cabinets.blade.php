@@ -73,7 +73,7 @@
                         <div class="specialty-staff">
                             <div class="specialty-staff-title">Специалисти</div>
 
-                            <div class="specialty-staff-member">
+                            <!-- <div class="specialty-staff-member">
 
                                 <div class="staff-member">
                                     <div class="staff-member-image">
@@ -110,7 +110,7 @@
                                 {{-- <div class="staff-member-short-bio">
                                     Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста.
                                 </div> --}}
-                            </div>
+                            </div> -->
 
 							<div class="specialty-staff-member">
 
@@ -217,7 +217,7 @@
                         <div class="specialty-staff">
                             <div class="specialty-staff-title">Специалисти</div>
 
-                            <div class="specialty-staff-member">
+                            <!-- <div class="specialty-staff-member">
 
                                 <div class="staff-member">
                                     <div class="staff-member-image">
@@ -254,7 +254,7 @@
                                 {{-- <div class="staff-member-short-bio">
                                     Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста.
                                 </div> --}}
-                            </div>
+                            </div> -->
 
                             <div class="specialty-staff-member">
 
@@ -444,7 +444,7 @@
                                     </div>
                                 </div>
 
-                                <div class="staff-member-info">
+                                <!-- <div class="staff-member-info">
                                     <div class="staff-member-name">Д-р Ася Чакърова</div>
                                     <div class="staff-member-specialty">Кардиолог</div>
 
@@ -465,7 +465,7 @@
                                             <img class="children" src="{{ config('app.url') }}/app-assets/images/practice-pediatric.png" title="Работи с деца">
                                         </span> --}}
                                     </div>
-                                </div>
+                                </div> -->
                                 {{-- <div class="staff-member-short-bio">
                                     Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста.
                                 </div> --}}
@@ -522,7 +522,7 @@
                                     </div>
                                 </div>
 
-                                <div class="staff-member-info">
+                                <!-- <div class="staff-member-info">
                                     <div class="staff-member-name">Д-р Петко Филипов</div>
                                     <div class="staff-member-specialty">Кардиолог</div>
 
@@ -543,7 +543,7 @@
                                             <img class="children" src="{{ config('app.url') }}/app-assets/images/practice-pediatric.png" title="Работи с деца">
                                         </span>
                                     </div>
-                                </div>
+                                </div> -->
                                 {{-- <div class="staff-member-short-bio">
                                     Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста.
                                 </div> --}}
@@ -657,15 +657,15 @@
 
 <div class="specialty-staff-member">
 
-    <div class="staff-member">
+    <!-- <div class="staff-member">
         <div class="staff-member-image">
             <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Боянка Семова">
         </div>
 
-        <!-- <div class="staff-member-appointment">
+        <div class="staff-member-appointment">
             <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/obstetrics-and-gynecology/inshirah-alsharafi" target="_blank">Резервирай час</a>
-        </div> -->
-    </div>
+        </div>
+    </div> -->
 
     <div class="staff-member-info">
         <div class="staff-member-name">Д-р Боянка Семова</div>
@@ -1259,16 +1259,16 @@
                         <div class="specialty-staff">
                             <div class="specialty-staff-title">Специалисти</div>
 
-                            <div class="specialty-staff-member">
+                            <!-- <div class="specialty-staff-member">
 
                                 <div class="staff-member">
                                     <div class="staff-member-image">
                                         <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Поля Моева">
                                     </div>
 
-                                    <!-- <div class="staff-member-appointment">
+                                    <div class="staff-member-appointment">
                                         <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/otolaryngology/ivan-voev" target="_blank">Резервирай час</a>
-                                    </div> -->
+                                    </div>
                                 </div>
 
                                 <div class="staff-member-info">
@@ -1296,7 +1296,7 @@
                                 {{-- <div class="staff-member-short-bio">
                                     Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста.
                                 </div> --}}
-                            </div>
+                            </div> -->
 
                         </div>
 
@@ -1430,21 +1430,21 @@
                         <div class="specialty-staff">
                             <div class="specialty-staff-title">Специалисти</div>
 
-                            <div class="specialty-staff-member">
+                            <!-- <div class="specialty-staff-member">
 
                                 <div class="staff-member">
                                     <div class="staff-member-image">
                                         <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Иван Кръстев">
                                     </div>
 
-                                    <!-- <div class="staff-member-appointment">
+                                    <div class="staff-member-appointment">
                                         <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/pediatrics/lora-buchukova" target="_blank">Резервирай час</a>
-                                    </div> -->
+                                    </div>
                                 </div>
 
                                 <div class="staff-member-info">
                                     <div class="staff-member-name">Д-р Иван Кръстев</div>
-                                    <!-- <div class="staff-member-specialty">Педиатър</div> -->
+                                    <div class="staff-member-specialty">Педиатър</div>
 
                                     <div class="staff-member-location">
                                         <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
@@ -1467,7 +1467,7 @@
                                 {{-- <div class="staff-member-short-bio">
                                     Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста.
                                 </div> --}}
-                            </div>
+                            </div> -->
 
                         </div>
 
@@ -1498,21 +1498,21 @@
                         <div class="specialty-staff">
                             <div class="specialty-staff-title">Специалисти</div>
 
-                            <div class="specialty-staff-member">
+                            <!-- <div class="specialty-staff-member">
 
                                 <div class="staff-member">
                                     <div class="staff-member-image">
                                         <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Теодора Тонева">
                                     </div>
 
-                                    <!-- <div class="staff-member-appointment">
+                                    <div class="staff-member-appointment">
                                         <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/pediatrics/lora-buchukova" target="_blank">Резервирай час</a>
-                                    </div> -->
+                                    </div>
                                 </div>
 
                                 <div class="staff-member-info">
                                     <div class="staff-member-name">Д-р Теодора Тонева</div>
-                                    <!-- <div class="staff-member-specialty">Педиатър</div> -->
+                                    <div class="staff-member-specialty">Педиатър</div>
 
                                     <div class="staff-member-location">
                                         <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
@@ -1535,7 +1535,7 @@
                                 {{-- <div class="staff-member-short-bio">
                                     Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста.
                                 </div> --}}
-                            </div>
+                            </div> -->
 
                         </div>
 
@@ -1566,21 +1566,21 @@
     <div class="specialty-staff">
         <div class="specialty-staff-title">Специалисти</div>
 
-        <div class="specialty-staff-member">
+        <!-- <div class="specialty-staff-member">
 
             <div class="staff-member">
                 <div class="staff-member-image">
                     <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Диана Тенева">
                 </div>
 
-                <!-- <div class="staff-member-appointment">
+                <div class="staff-member-appointment">
                     <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/pediatrics/lora-buchukova" target="_blank">Резервирай час</a>
-                </div> -->
+                </div>
             </div>
 
             <div class="staff-member-info">
                 <div class="staff-member-name">Д-р Диана Тенева</div>
-                <!-- <div class="staff-member-specialty">Педиатър</div> -->
+                <div class="staff-member-specialty">Педиатър</div>
 
                 <div class="staff-member-location">
                     <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
@@ -1603,7 +1603,7 @@
             {{-- <div class="staff-member-short-bio">
                 Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста.
             </div> --}}
-        </div>
+        </div> -->
 
     </div>
 

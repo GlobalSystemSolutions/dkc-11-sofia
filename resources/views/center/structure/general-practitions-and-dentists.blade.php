@@ -86,7 +86,7 @@
                                     </div>
                                 </div>
 
-                                <div class="specialty-staff-member">
+                                <!-- <div class="specialty-staff-member">
                                     <div class="staff-member">
                                         <div class="staff-member-image">
                                             <img class="general-practition" class="general-practition" src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Бисер Георгиев">
@@ -124,9 +124,9 @@
                                             </tbody>
                                         </table>
                                     </div>
-                                </div>
+                                </div> -->
 
-                                <div class="specialty-staff-member">
+                                <!-- <div class="specialty-staff-member">
                                     <div class="staff-member">
                                         <div class="staff-member-image">
                                             <img class="general-practition" src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Ваня Пиянечка">
@@ -164,9 +164,9 @@
                                             </tbody>
                                         </table>
                                     </div>
-                                </div>
+                                </div> -->
 
-                                <div class="specialty-staff-member">
+                                <!-- <div class="specialty-staff-member">
                                     <div class="staff-member">
                                         <div class="staff-member-image">
                                             <img class="general-practition" src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Радослав Радев">
@@ -204,9 +204,9 @@
                                             </tbody>
                                         </table>
                                     </div>
-                                </div>
+                                </div> -->
 
-                                <div class="specialty-staff-member">
+                                <!-- <div class="specialty-staff-member">
                                     <div class="staff-member">
                                         <div class="staff-member-image">
                                             <img class="general-practition" src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Ирина Грохлева">
@@ -244,9 +244,9 @@
                                             </tbody>
                                         </table>
                                     </div>
-                                </div>
+                                </div> -->
 
-                                <div class="specialty-staff-member">
+                                <!-- <div class="specialty-staff-member">
                                     <div class="staff-member">
                                         <div class="staff-member-image">
                                             <img class="general-practition" src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Розина Керакова">
@@ -284,9 +284,9 @@
                                             </tbody>
                                         </table>
                                     </div>
-                                </div>
+                                </div> -->
 
-                                <div class="specialty-staff-member">
+                                <!-- <div class="specialty-staff-member">
                                     <div class="staff-member">
                                         <div class="staff-member-image">
                                             <img class="general-practition" src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Стефка Русева">
@@ -324,9 +324,9 @@
                                             </tbody>
                                         </table>
                                     </div>
-                                </div>
+                                </div> -->
 
-                                <div class="specialty-staff-member">
+                                <!-- <div class="specialty-staff-member">
                                     <div class="staff-member">
                                         <div class="staff-member-image">
                                             <img class="general-practition" src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Иван Минков">
@@ -364,9 +364,9 @@
                                             </tbody>
                                         </table>
                                     </div>
-                                </div>
+                                </div> -->
 
-                                <div class="specialty-staff-member">
+                                <!-- <div class="specialty-staff-member">
                                     <div class="staff-member">
                                         <div class="staff-member-image">
                                             <img class="general-practition" src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Максим Митев">
@@ -404,9 +404,9 @@
                                             </tbody>
                                         </table>
                                     </div>
-                                </div>
+                                </div> -->
 
-                                <div class="specialty-staff-member">
+                                <!-- <div class="specialty-staff-member">
                                     <div class="staff-member">
                                         <div class="staff-member-image">
                                             <img class="general-practition" src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Сергей Иванов">
@@ -444,9 +444,9 @@
                                             </tbody>
                                         </table>
                                     </div>
-                                </div>
+                                </div> -->
 
-                                <div class="specialty-staff-member">
+                                <!-- <div class="specialty-staff-member">
                                     <div class="staff-member">
                                         <div class="staff-member-image">
                                             <img class="general-practition" src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Дмитрий Вуколов">
@@ -484,14 +484,14 @@
                                             </tbody>
                                         </table>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
 
                         <div role="tabpanel" class="tab-pane" id="tab-2" aria-expanded="true" aria-labelledby="base-tab2">
                             <div class="specialty-title">Дентални лекари</div>
 
-                            <div class="specialty-staff">
+                            <!-- <div class="specialty-staff">
 
                                 <div class="specialty-staff-member">
                                     <div class="staff-member">
@@ -768,14 +768,14 @@
                                         </table>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
 
                         </div>
 
                         <div role="tabpanel" class="tab-pane" id="tab-3" aria-expanded="true" aria-labelledby="base-tab3">
                             <div class="specialty-title">Психотерапевти</div>
 
-                            <div class="specialty-staff">
+                            <!-- <div class="specialty-staff">
                                 <div class="specialty-staff-member">
                                     <div class="staff-member">
                                         <div class="staff-member-image">
@@ -815,7 +815,7 @@
                                         </table>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
 
                         </div>
                     </div>
