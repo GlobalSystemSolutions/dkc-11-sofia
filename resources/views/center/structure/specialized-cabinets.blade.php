@@ -434,7 +434,7 @@
 
                             <div class="specialty-staff-member">
 
-                                <div class="staff-member">
+                                <!-- <div class="staff-member">
                                     <div class="staff-member-image">
                                         <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Ася Чакърова">
                                     </div>
@@ -442,7 +442,7 @@
                                     <div class="staff-member-appointment">
                                         <a href="https://myhealth.bg/practices/practice-profiles/2300012619/" target="_blank">Резервирай час</a>
                                     </div>
-                                </div>
+                                </div> -->
 
                                 <!-- <div class="staff-member-info">
                                     <div class="staff-member-name">Д-р Ася Чакърова</div>
@@ -512,7 +512,7 @@
 
                             <div class="specialty-staff-member">
 
-                                <div class="staff-member">
+                                <!-- <div class="staff-member">
                                     <div class="staff-member-image">
                                         <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Петко Филипов">
                                     </div>
@@ -520,7 +520,7 @@
                                     <div class="staff-member-appointment">
                                         <a href="https://myhealth.bg/practices/practice-profiles/2300007482/" target="_blank">Резервирай час</a>
                                     </div>
-                                </div>
+                                </div> -->
 
                                 <!-- <div class="staff-member-info">
                                     <div class="staff-member-name">Д-р Петко Филипов</div>
@@ -548,6 +548,44 @@
                                     Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста.
                                 </div> --}}
                             </div>
+<div class="specialty-staff-member">
+
+    <div class="staff-member">
+        <div class="staff-member-image">
+            <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Доц. дм Валентин Семова">
+        </div>
+
+        <div class="staff-member-appointment">
+            <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/obstetrics-and-gynecology/inshirah-alsharafi" target="_blank">Резервирай час</a>
+        </div>
+    </div>
+
+    <div class="staff-member-info">
+        <div class="staff-member-name">Доц. дм Валентин Семова</div>
+        <div class="staff-member-specialty">Кардиолог</div>
+
+        <div class="staff-member-location">
+            <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
+            <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 3</div>
+            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
+        </div>
+
+        <div class="staff-member-practices">
+            <span class="practice-icon">
+                <img src="{{ config('app.url') }}/app-assets/images/practice-nzok.png" title="Работи с НЗОК">
+            </span>
+            <span class="practice-icon">
+                <img src="{{ config('app.url') }}/app-assets/images/practice-cash.png" title="Работи платено">
+            </span>
+            <span class="practice-icon">
+                <img class="children" src="{{ config('app.url') }}/app-assets/images/practice-pediatric.png" title="Работи с деца">
+            </span>
+        </div>
+    </div>
+    {{-- <div class="staff-member-short-bio">
+        Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста.
+    </div> --}}
+</div>
                         </div>
 
 
@@ -655,9 +693,9 @@
                                 </div> --}}
                             </div>
 
-<div class="specialty-staff-member">
+<!-- <div class="specialty-staff-member">
 
-    <!-- <div class="staff-member">
+    <div class="staff-member">
         <div class="staff-member-image">
             <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Боянка Семова">
         </div>
@@ -665,7 +703,7 @@
         <div class="staff-member-appointment">
             <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/obstetrics-and-gynecology/inshirah-alsharafi" target="_blank">Резервирай час</a>
         </div>
-    </div> -->
+    </div>
 
     <div class="staff-member-info">
         <div class="staff-member-name">Д-р Боянка Семова</div>
@@ -674,6 +712,82 @@
         <div class="staff-member-location">
             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 2</div>
             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 20</div>
+            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
+        </div>
+
+        <div class="staff-member-practices">
+            <span class="practice-icon">
+                <img src="{{ config('app.url') }}/app-assets/images/practice-nzok.png" title="Работи с НЗОК">
+            </span>
+            <span class="practice-icon">
+                <img src="{{ config('app.url') }}/app-assets/images/practice-cash.png" title="Работи платено">
+            </span>
+            <span class="practice-icon">
+                <img class="children" src="{{ config('app.url') }}/app-assets/images/practice-pediatric.png" title="Работи с деца">
+            </span>
+        </div>
+    </div>
+    {{-- <div class="staff-member-short-bio">
+        Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста.
+    </div> --}}
+</div> -->
+<div class="specialty-staff-member">
+
+    <div class="staff-member">
+        <div class="staff-member-image">
+            <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Александър Александров">
+        </div>
+
+        <!-- <div class="staff-member-appointment">
+            <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/obstetrics-and-gynecology/inshirah-alsharafi" target="_blank">Резервирай час</a>
+        </div> -->
+    </div>
+
+    <div class="staff-member-info">
+        <div class="staff-member-name">Д-р Александър Александров</div>
+        <div class="staff-member-specialty">Дерматолог</div>
+
+        <div class="staff-member-location">
+            <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 2</div>
+            <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 21</div>
+            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
+        </div>
+
+        <div class="staff-member-practices">
+            <span class="practice-icon">
+                <img src="{{ config('app.url') }}/app-assets/images/practice-nzok.png" title="Работи с НЗОК">
+            </span>
+            <span class="practice-icon">
+                <img src="{{ config('app.url') }}/app-assets/images/practice-cash.png" title="Работи платено">
+            </span>
+            <span class="practice-icon">
+                <img class="children" src="{{ config('app.url') }}/app-assets/images/practice-pediatric.png" title="Работи с деца">
+            </span>
+        </div>
+    </div>
+    {{-- <div class="staff-member-short-bio">
+        Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста. Кратка автобиография за специалиста.
+    </div> --}}
+</div>
+<div class="specialty-staff-member">
+
+    <div class="staff-member">
+        <div class="staff-member-image">
+            <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Андре Хашим">
+        </div>
+
+        <!-- <div class="staff-member-appointment">
+            <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/obstetrics-and-gynecology/inshirah-alsharafi" target="_blank">Резервирай час</a>
+        </div> -->
+    </div>
+
+    <div class="staff-member-info">
+        <div class="staff-member-name">Д-р Андре Хашим</div>
+        <div class="staff-member-specialty">Дерматолог</div>
+
+        <div class="staff-member-location">
+            <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 2</div>
+            <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 21</div>
             <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
         </div>
 
