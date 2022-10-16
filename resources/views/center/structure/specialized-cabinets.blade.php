@@ -552,7 +552,7 @@
 
     <div class="staff-member">
         <div class="staff-member-image">
-            <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Доц. дм Валентин Семова">
+            <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Доц. дм Валентин Атанасов">
         </div>
 
         <div class="staff-member-appointment">
@@ -561,7 +561,7 @@
     </div>
 
     <div class="staff-member-info">
-        <div class="staff-member-name">Доц. дм Валентин Семова</div>
+        <div class="staff-member-name">Доц. дм Валентин Атанасов</div>
         <div class="staff-member-specialty">Кардиолог</div>
 
         <div class="staff-member-location">
