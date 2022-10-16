@@ -93,7 +93,7 @@
                                 </div>
 
                                 <div class="staff-member-appointment">
-                                    <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/imaging/mariya-karamanova" target="_blank">Резервирай час</a>
+                                    <a href="https://myhealth.bg/companies/000689517/dcc-11-sofia/imaging/2300006036/" target="_blank">Резервирай час</a>
                                 </div>
                             </div>
 

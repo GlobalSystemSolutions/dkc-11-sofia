@@ -81,7 +81,7 @@
                                     </div>
 
                                     <div class="staff-member-appointment">
-                                        <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/obstetrics-and-gynecology/vani-georgieva" target="_blank">Резервирай час</a>
+                                        <a href="https://myhealth.bg/companies/000689517/dcc-11-sofia/obstetrics-and-gynecology/2300001319/" target="_blank">Резервирай час</a>
                                     </div>
                                 </div>
 
@@ -120,7 +120,7 @@
                                     </div>
 
                                     <div class="staff-member-appointment">
-                                        <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/obstetrics-and-gynecology/inshirah-alsharafi" target="_blank">Резервирай час</a>
+                                        <a href="https://myhealth.bg/companies/000689517/dcc-11-sofia/obstetrics-and-gynecology/2300014712/" target="_blank">Резервирай час</a>
                                     </div>
                                 </div>
 
@@ -264,7 +264,7 @@
                                     </div>
 
                                     <div class="staff-member-appointment">
-                                        <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/gastroenterology/yuliya-grigorova" target="_blank">Резервирай час</a>
+                                        <a href="https://myhealth.bg/practices/practice-profiles/2300009956/" target="_blank">Резервирай час</a>
                                     </div>
                                 </div>
 
@@ -329,7 +329,7 @@
                                     </div>
 
                                     <div class="staff-member-appointment">
-                                        <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/endocrinology/afrodita-ivanova" target="_blank">Резервирай час</a>
+                                        <a href="https://myhealth.bg/practices/practice-profiles/2300000761/" target="_blank">Резервирай час</a>
                                     </div>
                                 </div>
 
@@ -368,7 +368,7 @@
                                     </div>
 
                                     <div class="staff-member-appointment">
-                                        <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/endocrinology/natasha-stankova" target="_blank">Резервирай час</a>
+                                        <a href="https://myhealth.bg/practices/practice-profiles/2300006797/" target="_blank">Резервирай час</a>
                                     </div>
                                 </div>
 
@@ -440,7 +440,7 @@
                                     </div>
 
                                     <div class="staff-member-appointment">
-                                        <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/cardiology/asya-chakarova" target="_blank">Резервирай час</a>
+                                        <a href="https://myhealth.bg/practices/practice-profiles/2300012619/" target="_blank">Резервирай час</a>
                                     </div>
                                 </div>
 
@@ -518,7 +518,7 @@
                                     </div>
 
                                     <div class="staff-member-appointment">
-                                        <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/cardiology/petko-filipov" target="_blank">Резервирай час</a>
+                                        <a href="https://myhealth.bg/practices/practice-profiles/2300007482/" target="_blank">Резервирай час</a>
                                     </div>
                                 </div>
 
@@ -585,7 +585,7 @@
                                     </div>
 
                                     <div class="staff-member-appointment">
-                                        <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/dermatology/denitsa-mircheva" target="_blank">Резервирай час</a>
+                                        <a href="https://myhealth.bg/practices/practice-profiles/2300012141/" target="_blank">Резервирай час</a>
                                     </div>
                                 </div>
 
@@ -624,7 +624,7 @@
                                     </div>
 
                                     <div class="staff-member-appointment">
-                                        <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/dermatology/petranka-troyanova" target="_blank">Резервирай час</a>
+                                        <a href="https://myhealth.bg/practices/practice-profiles/2300007495/" target="_blank">Резервирай час</a>
                                     </div>
                                 </div>
 
@@ -770,7 +770,7 @@
                                     </div>
 
                                     <div class="staff-member-appointment">
-                                        <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/neurology/mariya-sechkova" target="_blank">Резервирай час</a>
+                                        <a href="https://myhealth.bg/practices/practice-profiles/2400001053/" target="_blank">Резервирай час</a>
                                     </div>
                                 </div>
 
@@ -1013,7 +1013,7 @@
                                     </div>
 
                                     <div class="staff-member-appointment">
-                                        <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/pediatrics/lora-buchukova" target="_blank">Резервирай час</a>
+                                        <a href="https://myhealth.bg/practices/practice-profiles/1900000405/" target="_blank">Резервирай час</a>
                                     </div>
                                 </div>
 
@@ -1081,7 +1081,7 @@
                                     </div>
 
                                     <div class="staff-member-appointment">
-                                        <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/pneumology-and-phthisiatry/antoaneta-gocheva" target="_blank">Резервирай час</a>
+                                        <a href="https://myhealth.bg/practices/practice-profiles/2300000545/" target="_blank">Резервирай час</a>
                                     </div>
                                 </div>
 
@@ -1163,7 +1163,7 @@
                                         <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Никола Фарах">
                                     </div>
                                     <div class="staff-member-appointment">
-                                        <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/urology/nikola-farah" target="_blank">Резервирай час</a>
+                                        <a href="https://myhealth.bg/practices/practice-profiles/2300014714/" target="_blank">Резервирай час</a>
                                     </div>
                                 </div>
 
@@ -1201,7 +1201,7 @@
                                         <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Петър Павлов">
                                     </div>
                                     <div class="staff-member-appointment">
-                                        <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/urology/petar-pavlov" target="_blank">Резервирай час</a>
+                                        <a href="https://myhealth.bg/practices/practice-profiles/2300007523/" target="_blank">Резервирай час</a>
                                     </div>
                                 </div>
 
@@ -1335,7 +1335,7 @@
                                     </div>
 
                                     <div class="staff-member-appointment">
-                                        <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/surgery/grigor-grigorov" target="_blank">Резервирай час</a>
+                                        <a href="https://myhealth.bg/practices/practice-profiles/2300002469/" target="_blank">Резервирай час</a>
                                     </div>
                                 </div>
 
@@ -1371,7 +1371,7 @@
                                     </div>
 
                                     <div class="staff-member-appointment">
-                                        <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/surgery/silviya-staeva" target="_blank">Резервирай час</a>
+                                        <a href="https://myhealth.bg/practices/practice-profiles/2300008569/" target="_blank">Резервирай час</a>
                                     </div>
                                 </div>
 

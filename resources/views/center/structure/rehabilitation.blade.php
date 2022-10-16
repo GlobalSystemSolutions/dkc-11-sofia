@@ -56,7 +56,7 @@
                                 </div>
 
                                 <div class="staff-member-appointment">
-                                    <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/rehabilitation/donka-kazakova" target="_blank">Резервирай час</a>
+                                    <a href="https://myhealth.bg/companies/000689517/dcc-11-sofia/rehabilitation/2300003130/" target="_blank">Резервирай час</a>
                                 </div>
                             </div>
 

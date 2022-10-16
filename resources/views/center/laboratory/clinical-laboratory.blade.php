@@ -59,7 +59,7 @@
                                 </div>
 
                                 <div class="staff-member-appointment">
-                                    <a href="https://myhealth.bg/centers/profile/dcc-11-sofia/clinical-laboratory/nikolay-polomski" target="_blank">Резервирай час</a>
+                                    <a href="https://myhealth.bg/companies/000689517/dcc-11-sofia/clinical-laboratory/2300007133/" target="_blank">Резервирай час</a>
                                 </div>
                             </div>
 
