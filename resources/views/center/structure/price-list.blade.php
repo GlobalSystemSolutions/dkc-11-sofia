@@ -99,15 +99,15 @@
                                             <tr><th colspan="2" scope="col">Високоспециализирани изследвания - Тиреоидни хормони</th></tr>
                                         </thead>
                                         <tbody>
-                                            <tr><td>TSH</td><td>12.50 лв.</td></tr>
-                                            <tr><td>FT4</td><td>12.50 лв.</td></tr>
-                                            <tr><td>FT3</td><td>15.00 лв.</td></tr>
-                                            <tr><td>TgAb (TAT)</td><td>15.00 лв.</td></tr>
-                                            <tr><td>Anti-TPO (MAT)</td><td>15.00 лв.</td></tr>
+                                            <tr><td>TSH</td><td>16.50 лв.</td></tr>
+                                            <tr><td>FT4</td><td>16.50 лв.</td></tr>
+                                            <tr><td>FT3</td><td>16.50 лв.</td></tr>
+                                            <tr><td>TgAb (TAT)</td><td>18.50 лв.</td></tr>
+                                            <tr><td>Anti-TPO (MAT)</td><td>18.50 лв.</td></tr>
                                             <tr><td>TSHR-Ab (TSH-рецепторни антитела)</td><td>35.00 лв.</td></tr>
                                             <tr><td>TgAb + TPOAb</td><td>27.00 лв.</td></tr>
-                                            <tr><td>FT3 + FT4 + TSH - (малък пакет)</td><td>26.00 лв.</td></tr>
-                                            <tr><td>FT3 + FT4F + TSH + TPOAb + Tg-Ab - (разширен пакет)</td><td>53.00 лв.</td></tr>
+                                            <tr><td>FT3 + FT4 + TSH - (малък пакет)</td><td>39.00 лв.</td></tr>
+                                            <tr><td>FT3 + FT4F + TSH + TPOAb + Tg-Ab - (разширен пакет)</td><td>54.00 лв.</td></tr>
                                             <tr><td>ПАКЕТ-TSH, FT4, FT3, TAT и MAT</td><td>65.00 лв.</td></tr>
                                         </tbody>
                                     </table>
@@ -260,19 +260,20 @@
                                 <div class="card-body">
                                     <table class="table table-striped price-table">
                                         <tbody>
-                                            <tr><td>Амбулаторен първичен преглед</td><td>48.00 лв.</td></tr>
-                                            <tr><td>Амбулаторен вторичен преглед</td><td>35.00 лв.</td></tr>
-                                            <tr><td>Домашен медицински преглед</td><td>60.00 лв.</td></tr>
+                                            <tr><td>Амбулаторен първичен преглед</td><td>80.00 лв.</td></tr>
+                                            <tr><td>Амбулаторен вторичен преглед</td><td>50.00 лв.</td></tr>
+                                            <!-- <tr><td>Домашен медицински преглед</td><td>60.00 лв.</td></tr> -->
                                             <tr><td>Консултация по документи</td><td>30.00 лв.</td></tr>
-                                            <tr><td>Ехокардиография</td><td>50.00 лв.</td></tr>
-                                            <tr><td>ЕКГ без разчитане</td><td>5.00 лв.</td></tr>
+                                            <tr><td>Ехокардиография</td><td>80.00 лв.</td></tr>
+                                            <!-- <tr><td>ЕКГ без разчитане</td><td>5.00 лв.</td></tr>
                                             <tr><td>ЕКГ с разчитане</td><td>10.00 лв.</td></tr>
-                                            <tr><td>Измерване на кръвно налягане</td><td>5.00 лв.</td></tr>
-                                            <tr><td>Холтер ЕКГ- 24 часа</td><td>50.00 лв.</td></tr>
-                                            <tr><td>Холтер ЕКГ- 48 часа</td><td>60.00 лв.</td></tr>
-                                            <tr><td>Холтер ЕКГ- 72 часа</td><td>70.00 лв.</td></tr>
-                                            <tr><td>Холтер АН</td><td>30.00 лв.</td></tr>
-                                            <tr><td>Амбулаторен преглед с ехограф</td><td>80.00 лв.</td></tr>
+                                            <tr><td>Измерване на кръвно налягане</td><td>5.00 лв.</td></tr> -->
+                                            <tr><td>Холтер ЕКГ- 24 часа</td><td>60.00 лв.</td></tr>
+                                            <tr><td>Холтер ЕКГ- 48 часа</td><td>70.00 лв.</td></tr>
+                                            <tr><td>Холтер ЕКГ- 72 часа</td><td>75.00 лв.</td></tr>
+                                            <!-- <tr><td>Холтер АН</td><td>30.00 лв.</td></tr>
+                                            <tr><td>Амбулаторен преглед с ехограф</td><td>80.00 лв.</td></tr> -->
+                                            <tr><td>RR  Холтер</td><td>70.00 лв.</td></tr>
                                         </tbody>
                                     </table>
                                 </div>
@@ -678,7 +679,7 @@
                                             <tr><td>Ехографска диагностика на млечна жлеза</td><td>50.00 лв.</td></tr>
                                             <tr><td>Зъбни снимки</td><td>7.00 лв.</td></tr>
                                             <tr><td>Мамография</td><td>60.00 лв.</td></tr>
-                                            <tr><td>Изследване на млечни жлези с апарат ,,Braster-Pro“</td><td>49.00 лв.</td></tr>
+                                            <!-- <tr><td>Изследване на млечни жлези с апарат ,,Braster-Pro“</td><td>49.00 лв.</td></tr> -->
                                             <tr><td>Разчитане на снимка </td><td>15.00 лв.</td></tr>
                                             <tr><td>Копие на снимка</td><td>15.00 лв.</td></tr>
                                             <tr><td>Запис CD - копие</td><td>5.00 лв.</td></tr>
@@ -704,9 +705,9 @@
                             </div>
                         </div>
 
-                        <div id="headingCollapse20" class="card-header">
+                        <!-- <div id="headingCollapse20" class="card-header">
                             <a data-toggle="collapse" href="#collapse20" aria-expanded="false" aria-controls="collapse20" class="card-title lead">Преглед при д-р Росен Икономов, отоневролог</a>
-                        </div>
+                        </div> -->
                         <div id="collapse20" role="tabpanel" aria-labelledby="headingCollapse20" class="collapse" aria-expanded="false" style="">
                             <div class="card-content">
                                 <div class="card-body">

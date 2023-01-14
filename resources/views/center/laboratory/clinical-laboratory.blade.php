@@ -70,7 +70,7 @@
                                 <div class="staff-member-location">
                                     <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 2</div>
                                     <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 29</div>
-                                    <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
+                                    <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0884720457, 028319686, 029318048</div>
                                 </div>
 
                                 <div class="staff-member-practices">
