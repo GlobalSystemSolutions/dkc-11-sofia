@@ -141,9 +141,9 @@
                                         <span class="practice-icon">
                                             <img src="{{ config('app.url') }}/app-assets/images/practice-cash.png" title="Работи платено">
                                         </span>
-                                        <span class="practice-icon">
+                                        <!-- <span class="practice-icon">
                                             <img class="children" src="{{ config('app.url') }}/app-assets/images/practice-pediatric.png" title="Работи с деца">
-                                        </span>
+                                        </span> -->
                                     </div>
                                 </div>
                                 {{-- <div class="staff-member-short-bio">
@@ -180,9 +180,9 @@
                                         <span class="practice-icon">
                                             <img src="{{ config('app.url') }}/app-assets/images/practice-cash.png" title="Работи платено">
                                         </span>
-                                        <span class="practice-icon">
+                                        <!-- <span class="practice-icon">
                                             <img class="children" src="{{ config('app.url') }}/app-assets/images/practice-pediatric.png" title="Работи с деца">
-                                        </span>
+                                        </span> -->
                                     </div>
                                 </div>
                                 {{-- <div class="staff-member-short-bio">
@@ -219,9 +219,9 @@
             <span class="practice-icon">
                 <img src="{{ config('app.url') }}/app-assets/images/practice-cash.png" title="Работи платено">
             </span>
-            <span class="practice-icon">
+            <!-- <span class="practice-icon">
                 <img class="children" src="{{ config('app.url') }}/app-assets/images/practice-pediatric.png" title="Работи с деца">
-            </span>
+            </span> -->
         </div>
     </div>
     {{-- <div class="staff-member-short-bio">
@@ -578,9 +578,9 @@
                                         <span class="practice-icon">
                                             <img src="{{ config('app.url') }}/app-assets/images/practice-cash.png" title="Работи платено">
                                         </span>
-                                        <span class="practice-icon">
+                                        <!-- <span class="practice-icon">
                                             <img class="children" src="{{ config('app.url') }}/app-assets/images/practice-pediatric.png" title="Работи с деца">
-                                        </span>
+                                        </span> -->
                                     </div>
                                 </div>
                                 {{-- <div class="staff-member-short-bio">
@@ -655,9 +655,9 @@
             <span class="practice-icon">
                 <img src="{{ config('app.url') }}/app-assets/images/practice-cash.png" title="Работи платено">
             </span>
-            <span class="practice-icon">
+            <!-- <span class="practice-icon">
                 <img class="children" src="{{ config('app.url') }}/app-assets/images/practice-pediatric.png" title="Работи с деца">
-            </span>
+            </span> -->
         </div>
     </div>
     {{-- <div class="staff-member-short-bio">
@@ -693,9 +693,9 @@
             <span class="practice-icon">
                 <img src="{{ config('app.url') }}/app-assets/images/practice-cash.png" title="Работи платено">
             </span>
-            <span class="practice-icon">
+            <!-- <span class="practice-icon">
                 <img class="children" src="{{ config('app.url') }}/app-assets/images/practice-pediatric.png" title="Работи с деца">
-            </span>
+            </span> -->
         </div>
     </div>
     {{-- <div class="staff-member-short-bio">
@@ -731,9 +731,9 @@
             <span class="practice-icon">
                 <img src="{{ config('app.url') }}/app-assets/images/practice-cash.png" title="Работи платено">
             </span>
-            <span class="practice-icon">
+            <!-- <span class="practice-icon">
                 <img class="children" src="{{ config('app.url') }}/app-assets/images/practice-pediatric.png" title="Работи с деца">
-            </span>
+            </span> -->
         </div>
     </div>
     {{-- <div class="staff-member-short-bio">
@@ -1186,9 +1186,9 @@
                                     </div>
 
                                     <div class="staff-member-practices">
-                                        <span class="practice-icon">
+                                        <!-- <span class="practice-icon">
                                             <img src="{{ config('app.url') }}/app-assets/images/practice-nzok.png" title="Работи с НЗОК">
-                                        </span>
+                                        </span> -->
                                         <span class="practice-icon">
                                             <img src="{{ config('app.url') }}/app-assets/images/practice-cash.png" title="Работи платено">
                                         </span>
@@ -1446,9 +1446,9 @@
                                     </div>
 
                                     <div class="staff-member-practices">
-                                        <span class="practice-icon">
+                                        <!-- <span class="practice-icon">
                                             <img src="{{ config('app.url') }}/app-assets/images/practice-nzok.png" title="Работи с НЗОК">
-                                        </span>
+                                        </span> -->
                                         <span class="practice-icon">
                                             <img src="{{ config('app.url') }}/app-assets/images/practice-cash.png" title="Работи платено">
                                         </span>

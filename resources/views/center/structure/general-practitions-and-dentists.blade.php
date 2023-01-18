@@ -129,46 +129,6 @@
 <div class="specialty-staff-member">
     <div class="staff-member">
         <div class="staff-member-image">
-            <img class="general-practition" src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Сергий Иванов">
-        </div>
-    </div>
-
-    <div class="staff-member-info">
-        <div class="staff-member-name">Д-р Сергий Иванов</div>
-        <div class="staff-member-specialty">Общопрактикуващ лекар</div>
-
-        <div class="staff-member-location">
-            <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
-            <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 9</div>
-            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0884720457, 028319686, 029318048</div>
-        </div>
-    </div>
-
-    <!-- <div class="staff-business-hours">
-        <table class="table table-striped">
-            <thead>
-                <tr>
-                    <th scope="col">&nbsp;</th>
-                    <th scope="col">Приемно време</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <th scope="row">Нечетна дата</th>
-                    <td>08:30 - 13:00</td>
-                </tr>
-                <tr>
-                    <th scope="row">Четна дата</th>
-                    <td>14:00 - 19:00</td>
-                </tr>
-            </tbody>
-        </table>
-    </div> -->
-</div>
-
-<div class="specialty-staff-member">
-    <div class="staff-member">
-        <div class="staff-member-image">
             <img class="general-practition" src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Дмитрий Вуколов">
         </div>
     </div>
