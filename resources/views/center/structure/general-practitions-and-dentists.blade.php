@@ -100,7 +100,7 @@
         <div class="staff-member-location">
             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 9</div>
-            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0884720457, 028319686, 029318048</div>
+            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
         </div>
     </div>
 
@@ -140,7 +140,7 @@
         <div class="staff-member-location">
             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 9</div>
-            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0884720457, 028319686, 029318048</div>
+            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
         </div>
     </div>
 
@@ -180,7 +180,7 @@
         <div class="staff-member-location">
             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 7</div>
-            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0884720457, 028319686, 029318048</div>
+            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
         </div>
     </div>
 
@@ -220,7 +220,7 @@
         <div class="staff-member-location">
             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 8</div>
-            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0884720457, 028319686, 029318048</div>
+            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
         </div>
     </div>
 
@@ -260,7 +260,7 @@
         <div class="staff-member-location">
             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 8</div>
-            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0884720457, 028319686, 029318048</div>
+            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
         </div>
     </div>
 
@@ -300,7 +300,7 @@
         <div class="staff-member-location">
             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 12</div>
-            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0884720457, 028319686, 029318048</div>
+            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
         </div>
     </div>
 
@@ -340,7 +340,7 @@
         <div class="staff-member-location">
             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 12</div>
-            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0884720457, 028319686, 029318048</div>
+            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
         </div>
     </div>
 
@@ -380,7 +380,7 @@
         <div class="staff-member-location">
             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 22</div>
-            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0884720457, 028319686, 029318048</div>
+            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
         </div>
     </div>
 
@@ -420,7 +420,7 @@
         <div class="staff-member-location">
             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 10</div>
-            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0884720457, 028319686, 029318048</div>
+            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
         </div>
     </div>
 
@@ -907,7 +907,7 @@
                                         <div class="staff-member-location">
                                             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
                                             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 15</div>
-                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0884720457, 028319686, 029318048</div>
+                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
                                         </div>
                                     </div>
 
@@ -947,7 +947,7 @@
                                         <div class="staff-member-location">
                                             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
                                             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 27</div>
-                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0884720457, 028319686, 029318048</div>
+                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
                                         </div>
                                     </div>
 
@@ -976,18 +976,18 @@
                                 <div class="specialty-staff-member">
                                     <div class="staff-member">
                                         <div class="staff-member-image">
-                                            <img class="general-practition" src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Дечка Кирячко">
+                                            <img class="general-practition" src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Дечка Кирячко - напуснала">
                                         </div>
                                     </div>
 
                                     <div class="staff-member-info">
-                                        <div class="staff-member-name">Д-р Дечка Кирячко</div>
+                                        <div class="staff-member-name">Д-р Дечка Кирячко - напуснала</div>
                                         <div class="staff-member-specialty">Стоматолог</div>
 
                                         <div class="staff-member-location">
                                             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
                                             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 25</div>
-                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0884720457, 028319686, 029318048</div>
+                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
                                         </div>
                                     </div>
 
@@ -1027,7 +1027,7 @@
                                         <div class="staff-member-location">
                                             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
                                             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 25</div>
-                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0884720457, 028319686, 029318048</div>
+                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
                                         </div>
                                     </div>
 
@@ -1067,7 +1067,7 @@
                                         <div class="staff-member-location">
                                             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
                                             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 15</div>
-                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0884720457, 028319686, 029318048</div>
+                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
                                         </div>
                                     </div>
 
@@ -1107,7 +1107,7 @@
                                         <div class="staff-member-location">
                                             <div class="location-item"><i class="fa fa-hospital-o"></i>Етаж: 1</div>
                                             <div class="location-item"><i class="fa fa-caret-square-o-right"></i>Кабинет: 24</div>
-                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 0884720457, 028319686, 029318048</div>
+                                            <div class="location-item"><i class="fa fa-phone-square"></i>Телефон: 029318048</div>
                                         </div>
                                     </div>
 

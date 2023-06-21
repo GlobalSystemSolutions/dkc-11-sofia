@@ -52,7 +52,7 @@
 
                             <div class="staff-member">
                                 <div class="staff-member-image">
-                                    <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Донка Казакова">
+                                    <img src="{{ config('app.url') }}/assets/images/profiles/user.svg" title="Д-р Илонка Иванова">
                                 </div>
 
                                 <div class="staff-member-appointment">
@@ -61,7 +61,7 @@
                             </div>
 
                             <div class="staff-member-info">
-                                <div class="staff-member-name">Д-р Донка Казакова</div>
+                                <div class="staff-member-name">Д-р Илонка Иванова</div>
                                 <div class="staff-member-specialty">Специалист физикална и рехабилитационна медицина</div>
 
                                 <div class="staff-member-location">

@@ -90,16 +90,8 @@
                                     02 931 80 48
                                 </p>
                                 <p>
-                                    <span class="contacts-info-title">Мобилен:</span><br>
+                                    <span class="contacts-info-title">Мобилен - Администрация:</span><br>
                                     0884720457
-                                </p>
-                                <p>
-                                    <span class="contacts-info-title">Регистратура:</span><br>
-                                    02/8318048
-                                </p>
-                                <p>
-                                    <span class="contacts-info-title">Старша сестра:</span><br>
-                                    0878 497048
                                 </p>
                                 <p>
                                     <span class="contacts-info-title">Администрация:</span><br>

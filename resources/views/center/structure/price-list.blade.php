@@ -435,7 +435,7 @@
                             </div>
                         </div>
 
-                        <div id="headingCollapse12" class="card-header">
+                        <!-- <div id="headingCollapse12" class="card-header">
                             <a data-toggle="collapse" href="#collapse12" aria-expanded="false" aria-controls="collapse12" class="card-title lead">Кабинет по ортопедия и травматология</a>
                         </div>
                         <div id="collapse12" role="tabpanel" aria-labelledby="headingCollapse12" class="collapse" aria-expanded="false" style="">
@@ -450,7 +450,7 @@
                                     </table>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <div id="headingCollapse13" class="card-header">
                             <a data-toggle="collapse" href="#collapse13" aria-expanded="false" aria-controls="collapse13" class="card-title lead">Кабинет по очни болести</a>
@@ -689,7 +689,7 @@
                             </div>
                         </div>
 
-                        <div id="headingCollapse19" class="card-header">
+                        <!-- <div id="headingCollapse19" class="card-header">
                             <a data-toggle="collapse" href="#collapse19" aria-expanded="false" aria-controls="collapse19" class="card-title lead">Преглед при проф. Петранка Троянова, дерматолог-онколог</a>
                         </div>
                         <div id="collapse19" role="tabpanel" aria-labelledby="headingCollapse19" class="collapse" aria-expanded="false" style="">
@@ -703,7 +703,7 @@
                                     </table>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- <div id="headingCollapse20" class="card-header">
                             <a data-toggle="collapse" href="#collapse20" aria-expanded="false" aria-controls="collapse20" class="card-title lead">Преглед при д-р Росен Икономов, отоневролог</a>

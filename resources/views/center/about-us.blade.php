@@ -74,10 +74,10 @@
                                             <span class="list-icon"><i class="fa fa-check-square-o"></i></span>
                                             Кабинет по Неврология
                                         </li>
-                                        <li>
+                                        <!-- <li>
                                             <span class="list-icon"><i class="fa fa-check-square-o"></i></span>
                                             Кабинет по Ортопедия и травматология
-                                        </li>
+                                        </li> -->
                                         <li>
                                             <span class="list-icon"><i class="fa fa-check-square-o"></i></span>
                                             Кабинет по Очни болести - лекарски кабинет с манипулационна
